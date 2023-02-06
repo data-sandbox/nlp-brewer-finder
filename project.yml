@@ -1,0 +1,94 @@
+title: "Brewery Finder NER"
+description: "This project detects brewery features using web scraped reviews from Trip Advisor"
+# Variables can be referenced across the project.yml using ${vars.var_name}
+vars:
+  config: "config.cfg"
+  name: "ner_proglang"
+  version: "0.0.0"
+  train: "train"
+  valid: "valid"
+  patterns: "feature_patterns.jsonl"
+
+# These are the directories that the project needs. The project CLI will make
+# sure that they always exist.
+directories: ["assets", "training", "corpus", "configs", "scripts", "packages"]
+
+# Assets that should be downloaded or available in the directory.
+# 'project assets' command lets you verify that the checksums match.
+assets:
+  - dest: "assets/${vars.train}.jsonl"
+    description: "JSONL-formatted training data exported from Doccano"
+
+# Workflows are sequences of commands (see below) executed in order. You can
+# run them via "spacy project run [workflow]". If a commands's inputs/outputs
+# haven't changed, it won't be re-run.
+workflows:
+  all:
+    - preprocess
+    # - patternmod
+    - train
+    - evaluate
+
+# Project commands, specified in a style similar to CI config files (e.g. Azure
+# pipelines). The name is the command name that lets you trigger the command
+# via "spacy project run [command] [path]". The help message is optional and
+# shown when executing "spacy project run [optional command] [path] --help".
+commands:
+  - name: "preprocess"
+    help: "Convert the data to spaCy's binary format"
+    script:
+      - "python scripts/preprocess.py assets/${vars.train}.jsonl corpus/${vars.train}.spacy corpus/${vars.valid}.spacy"
+    deps:
+      - "assets/${vars.train}.jsonl"
+      - "scripts/preprocess.py"
+    outputs:
+      - "corpus/${vars.train}.spacy"
+      - "corpus/${vars.valid}.spacy"
+
+  # - name: "patternmod"
+  #   help: "Generate a named entity recognition model based on rules."
+  #   script:
+  #     - "python scripts/save_pattern_model.py configs/${vars.patterns} training/model-pattern"
+  #   deps:
+  #     - "configs/${vars.patterns}"
+  #   outputs:
+  #     - "training/model-pattern"
+
+  - name: "train"
+    help: "Train a named entity recognition model"
+    script:
+      - "python -m spacy train configs/${vars.config} --output training/ --paths.train corpus/${vars.train}.spacy --paths.dev corpus/${vars.train}.spacy"
+    deps:
+      - "corpus/${vars.train}.spacy"
+    outputs:
+      - "training/model-best"
+
+  - name: "evaluate"
+    help: "Evaluate the model and export metrics"
+    script:
+      - "python -m spacy evaluate training/model-best corpus/${vars.valid}.spacy --output training/model-metrics.json"
+      # - "python -m spacy evaluate training/model-pattern corpus/${vars.valid}.spacy --output training/pattern-metrics.json"
+    deps:
+      # - "training/model-pattern"
+      - "training/model-best"
+      - "corpus/${vars.valid}.spacy"
+    outputs:
+      - "training/model-metrics.json"
+      - "training/pattern-metrics.json"
+
+  - name: package
+    help: "Package the trained model so it can be installed"
+    script:
+      - "python -m spacy package training/model-best packages --name ${vars.name} --version ${vars.version} --force"
+    deps:
+      - "training/model-best"
+    outputs_no_cache:
+      - "packages/en_${vars.name}-${vars.version}/dist/en_${vars.name}-${vars.version}.tar.gz"
+
+  - name: "show-stats"
+    help: "Show the statistics that compares both models."
+    script:
+      - "python scripts/print_stats.py"
+    deps:
+      - "training/model-metrics.json"
+      # - "training/pattern-metrics.json"
