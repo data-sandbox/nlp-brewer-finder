@@ -7,7 +7,7 @@ vars:
   version: "0.0.0"
   train: "train"
   valid: "valid"
-  patterns: "feature_patterns.jsonl"
+  patterns: "label_patterns.jsonl"
 
 # These are the directories that the project needs. The project CLI will make
 # sure that they always exist.
@@ -25,7 +25,7 @@ assets:
 workflows:
   all:
     - preprocess
-    # - patternmod
+    - patternmod
     - train
     - evaluate
 
@@ -45,14 +45,14 @@ commands:
       - "corpus/${vars.train}.spacy"
       - "corpus/${vars.valid}.spacy"
 
-  # - name: "patternmod"
-  #   help: "Generate a named entity recognition model based on rules."
-  #   script:
-  #     - "python scripts/save_pattern_model.py configs/${vars.patterns} training/model-pattern"
-  #   deps:
-  #     - "configs/${vars.patterns}"
-  #   outputs:
-  #     - "training/model-pattern"
+  - name: "patternmod"
+    help: "Generate a named entity recognition model based on rules."
+    script:
+      - "python scripts/save_pattern_model.py configs/${vars.patterns} training/model-pattern"
+    deps:
+      - "configs/${vars.patterns}"
+    outputs:
+      - "training/model-pattern"
 
   - name: "train"
     help: "Train a named entity recognition model"
@@ -67,9 +67,9 @@ commands:
     help: "Evaluate the model and export metrics"
     script:
       - "python -m spacy evaluate training/model-best corpus/${vars.valid}.spacy --output training/model-metrics.json"
-      # - "python -m spacy evaluate training/model-pattern corpus/${vars.valid}.spacy --output training/pattern-metrics.json"
+      - "python -m spacy evaluate training/model-pattern corpus/${vars.valid}.spacy --output training/pattern-metrics.json"
     deps:
-      # - "training/model-pattern"
+      - "training/model-pattern"
       - "training/model-best"
       - "corpus/${vars.valid}.spacy"
     outputs:
@@ -91,4 +91,4 @@ commands:
       - "python scripts/print_stats.py"
     deps:
       - "training/model-metrics.json"
-      # - "training/pattern-metrics.json"
+      - "training/pattern-metrics.json"
