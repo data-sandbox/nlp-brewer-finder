@@ -3,18 +3,30 @@ import pandas as pd
 import requests
 from streamlit_folium import folium_static
 import folium
+import base64
+import textwrap
+from PIL import Image
 
 
 st.set_page_config(layout='wide', page_title='Brewery Finder 🍻')
 
+# TODO try svg image instead of png
+# def render_svg(svg):
+#     """Renders the given svg string."""
+#     b64 = base64.b64encode(svg.encode('utf-8')).decode("utf-8")
+#     html = r'<img src="data:image/svg+xml;base64,%s"/>' % b64
+#     st.write(html, unsafe_allow_html=True)
+
 
 # Initialization
 if 'lat' not in st.session_state:
-    st.session_state.lat = 42.3554334
+    # st.session_state.lat = 42.3554334 # Boston, MA
+    st.session_state.lat = 44.0
 if 'lon' not in st.session_state:
-    st.session_state.lon = -71.060511
+    # st.session_state.lon = -71.060511 # Boston, MA
+    st.session_state.lon = -73.0
 if 'zoom' not in st.session_state:
-    st.session_state.zoom = 9
+    st.session_state.zoom = 6
 
 # Title
 st.markdown('# Brewery Finder 🍻')
@@ -85,21 +97,9 @@ games = st.sidebar.checkbox("Games Available")
 music = st.sidebar.checkbox("Live Music")
 tour = st.sidebar.checkbox("Tours Offered")
 
-if address_input:
-    st.session_state.lat, st.session_state.lon = geocode(address_input)
-
 if find_button:
+    st.session_state.lat, st.session_state.lon = geocode(address_input)
     st.session_state.zoom = 11
-
-# if find_button:
-    # Current location:
-#     icon = folium.Icon(color='red')
-#     current_loc = folium.Marker(location=[st.session_state.lat1,
-#                                           st.session_state.lon1],
-#                                 icon=icon,
-#                                 tooltip="You are here.")
-# else:
-#     current_loc = None
 
 df = load_df()
 filt_df, inv_df = apply_filters(df)
@@ -110,6 +110,16 @@ m = folium.Map(location=[st.session_state.lat,
                zoom_start=st.session_state.zoom,
                )
 
+# TODO possible 'you are here' pin
+# if find_button:
+# Current location:
+#     icon = folium.Icon(color='red')
+#     current_loc = folium.Marker(location=[st.session_state.lat1,
+#                                           st.session_state.lon1],
+#                                 icon=icon,
+#                                 tooltip="You are here.")
+# else:
+#     current_loc = None
 # if current_loc:
 #     current_loc.add_to(m)
 
@@ -163,13 +173,32 @@ if not inv_df.empty:
 
 folium_static(m)
 
-# st.dataframe(display_df(filt_df))
-
 
 st.subheader("About this app")
 st.markdown("""
-This app uses webscraped brewery reviews from Tripadvisor and a Natural Languaging Processing (NLP) model
-to identify the offerings at each brewery. 
+This app uses webscraped brewery reviews from Tripadvisor and a Natural Languaging 
+Processing (NLP) model to identify the offerings at each brewery. 
+
+The scraped dataset currently contains 16,700+ reviews for 660+ breweries across 7 states.
+The SpaCy NLP model uses a pattern-matching, rule-based approach to identify
+ words and phrases that indicate an offering is present.
+
+Here's an example of the model identifying offerings from review text:
+""")
+image = Image.open('./streamlit/example.png')
+st.image(image, caption="Offerings identified by the model and visualized using SpaCy's displacy feature")
+
+# f = open("./streamlit/example.svg", "r")
+# lines = f.readlines()
+# line_string = ''.join(lines)
+# st.code(textwrap.dedent(line_string), 'svg')
+# render_svg('svg')
+# st.image(line_string, caption='Example label matches from model')
+
+st.markdown("""
+For instance, words/phrase variations such as "dogs" and "dog friendly" are matched 
+and tallied to determine if dogs are allowed. Also notice how the model correctly handles
+  "hot dogs" by identifying it as a food rather than a dog-friendly indicator.
 
 You can see how this works in my
 [Jupyter Notebooks](https://github.com/data-science-sandbox/nlp-brewer-finder/tree/main/notebooks)

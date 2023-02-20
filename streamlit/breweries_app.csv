@@ -1,107 +1,566 @@
 name,state,city,street,longitude,latitude,website_url,outdoor_,food_,dog_,games_,music_,tour_
 10th District Brewing Company,Massachusetts,Abington,491 Washington St,-70.94594149,42.10591754,http://www.10thdistrictbrewing.com,No,Yes,No,No,No,No
+14th Star Brewing,Vermont,Saint Albans,133 N Main St Ste 7,-73.082451,44.8143654,http://www.14thstarbrewing.com,Yes,Yes,No,No,Yes,Yes
+16 Stone Brewpub,New York,Holland Patent,9542 Main St,-75.2565195,43.24211175,http://www.16stonebrewpub.com,No,Yes,No,No,No,No
+1940's Brewing Company,New York,Holbrook,1337 Lincoln Ave Unit 1,-73.0857021,40.7996279,http://www.1940sbrewingcompany.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+1st Republic Brewing Co,Vermont,Essex Junction,39 River Rd Ste 6,-73.0844756,44.4837023,http://www.1strepublic-homebrew.com,No,Yes,No,Yes,No,Yes
+2 Feet Brewing Company,Maine,Bangor,80 Columbia St,-68.77283099,44.80012684,http://www.2feetbrewing.com,Yes,Yes,No,No,No,No
+2 Way Brewing Company,New York,Beacon,18 W Main St,-73.9809868,41.5082102,http://www.2waybrewingcompany.com,Yes,Yes,Yes,Yes,No,No
+30 Mile Brewing Co.,Connecticut,Old Saybrook,39 Ragged Rock Rd Unit 5,-72.3713255,41.3024977,http://www.30milebrewingco.com,Yes,Yes,No,Yes,No,No
 3cross Fermentation Cooperative,Massachusetts,Worcester,4 Knowlton Ave,-71.83057593,42.24364875,http://www.3cross.coop,No,Yes,No,No,Yes,No
-7th Wave Brewing,Massachusetts,Medfield,120 N Meadows Rd,-71.3282767101171,42.1935755,http://www.7thwavebrewing.com,Yes,Yes,No,Yes,No,No
-Aeronaut Brewing Company,Massachusetts,Somerville,14 Tyler St,-71.1062676,42.3819723,http://www.aeronautbrewing.com,Yes,Yes,No,Yes,Yes,Yes
-Amherst Brewing Co / Hangar Pub and Grill,Massachusetts,Amherst,10 University Dr,-72.5318418,42.3728635,http://www.amherstbrewing.com,No,Yes,No,Yes,Yes,No
-Amorys Tomb Brewing Co,Massachusetts,Maynard,76 Main St,-71.45315644,42.43203845,http://amorystomb.com,No,Yes,No,No,No,No
-Anawan Brewing Company,Massachusetts,Dighton,7 Park St,-71.128681,41.86512,http://www.anawanbrewingco.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+42 North Brewing Company,New York,East Aurora,25 Pine St,-78.607989,42.769311,http://www.42northbrewing.com,Yes,Yes,Yes,Yes,Yes,No
+603 Brewery,New Hampshire,Londonderry,12 Liberty Dr Unit 7,-71.3629995110668,42.9164605,http://www.603brewery.com,Yes,Yes,No,No,No,Yes
+7th Wave Brewing,Massachusetts,Medfield,120 N Meadows Rd Ste 8,-71.3282767101171,42.1935755,http://www.7thwavebrewing.com,No,Yes,No,Yes,No,No
+Abandon Brewing,New York,Penn Yan,2994 Merritt Hill Rd,-77.105194,42.6318615,http://www.abandonbrewing.com,Yes,Yes,Yes,Yes,Yes,No
+Abandoned Building Brewery,Massachusetts,Easthampton,142 Pleasant St Unit 103A,-72.6611528,42.2734119,http://www.abandonedbuildingbrewery.com,No,Yes,Yes,Yes,Yes,No
+Able Ebenezer Brewing Company,New Hampshire,Merrimack,31 Columbia Cir,-71.493705,42.851742,http://www.ableebenezer.com,Yes,Yes,No,Yes,Yes,No
+Adirondack Pub and Brewery,New York,Lake George,33 Canada St,-73.71407763,43.41850655,http://www.adkpub.com,Yes,Yes,Yes,No,Yes,No
+Aeronaut Brewing Company,Massachusetts,Somerville,14 Tyler St,-71.1062676,42.3819723,http://www.aeronautbrewing.com,Yes,Yes,No,Yes,Yes,No
+Airline Brewing Company,Maine,Amherst,22 Mill Ln,-68.3677435,44.8329462,http://www.abcmaine.beer,Yes,Yes,No,Yes,No,No
+Alchemist Cannery,Vermont,Waterbury,35 Crossroad,-72.7431232228558,44.3504487717522,http://www.alchemistbeer.com,No,Yes,No,No,No,Yes
+Allagash Brewing Co,Maine,Portland,50 Industrial Way,-70.3179518,43.7030951,http://www.allagash.com,Yes,Yes,No,No,No,Yes
+Altruist Brewing Company,Massachusetts,Sturbridge,559 Main St Unit 105,-72.1131671,42.1160475,http://www.altruistbrewing.com,No,Yes,No,No,Yes,No
+Alvarium Beer Company,Connecticut,New Britain,365 John Downey Dr Ste B,-72.7548436188758,41.66403915,http://www.alvariumbeer.com,Yes,Yes,Yes,Yes,No,Yes
+Amber Lantern Brewing Company,New York,Warsaw,44 N Main St,-78.132363,42.7408423,http://www.amberlanternbrewingcompany.com,No,Yes,No,No,No,No
+Amherst Brewing Co / Hangar Pub and Grill,Massachusetts,Amherst,10 University Dr,-72.5318418,42.3728635,http://www.amherstbrewing.com,No,Yes,No,Yes,No,No
+Amorys Tomb Brewing Co,Massachusetts,Maynard,76 Main St,-71.45315644,42.43203845,http://amorystomb.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Anheuser-Busch Inc â Merrimack,New Hampshire,Merrimack,221 Daniel Webster Hwy,-71.48598162,42.8253635,,Yes,Yes,No,No,No,Yes
+Apponaug Brewing,Rhode Island,Warwick,334 Knight St,-71.4691256,41.7265254,http://www.apponaugbrewing.com,Yes,Yes,No,Yes,No,No
+Argyle Brewing Company,New York,Greenwich,1 Main St,-73.496758,43.08767125,http://www.argylebrewing.com,No,Yes,No,No,No,Yes
+Artisanal Brew Works,New York,Saratoga Springs,41 Geyser Rd,-73.814587546919,43.06023785,http://www.artisanalbrewworks.com,Yes,Yes,No,Yes,Yes,No
+Aspetuck Brew Lab,Connecticut,Bridgeport,3389 Fairfield Avenue,-73.2357109,41.1544649,http://www.aspetuckbrewlab.com,No,Yes,No,No,No,Yes
+Atlantic Brewing Co,Maine,Bar Harbor,15 Knox Rd,-68.3336355,44.3996245,http://atlanticbrewing.com,Yes,Yes,No,No,No,Yes
+Atlantic Brewing Co / Bar Harbor Brewing,Maine,Bar Harbor,52 Cottage Street Bar Harbor,-68.20607075,44.389488,http://www.barharborbrewing.com,Yes,Yes,No,No,No,Yes
+Ausable Brewing Co,New York,Keeseville,765 Mace Chasm Rd,-73.4477635,44.503684,http://ausablebrewing.tumblr.com,Yes,Yes,Yes,Yes,Yes,No
+Austin Street Brewery,Maine,Portland,1 Industrial Way Ste 8,-70.3200172388802,43.70282555,http://www.austinstreetbrewery.com,Yes,No,Yes,No,No,No
+Bacchus Brewing,New York,Dryden,15 Ellis Dr,-76.29904171,42.49966971,http://www.bacchusbrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Back East Brewing,Connecticut,Bloomfield,1296 Blue Hills Ave Ste A,-72.705756,41.855446,http://www.backeastbrewing.com,Yes,Yes,No,No,No,Yes
+Backlash Beer Co,Massachusetts,Boston,,-71.06056,42.3514972,http://backlashbeer.com/,Unknown,Yes,Unknown,Yes,Unknown,Unknown
+Backyard Brewery,New Hampshire,Manchester,1211 S Mammoth Rd,-71.4134598,42.93534925,http://www.backyardbrewerynh.com,Yes,Yes,Yes,No,Yes,No
+Bad Lab Beer Co.,New Hampshire,Somersworth,460 High St,-70.88353777,43.22651432,http://www.badlabbeer.com,Yes,Yes,Yes,No,Yes,No
 Bad Martha Farmer's Brewery,Massachusetts,Edgartown,270 Upper Main St,-70.52732,41.394402,http://www.badmarthabeer.com,Yes,Yes,Yes,No,Yes,No
-BareWolf Brewing,Massachusetts,Amesbury,12 Oakland St,-70.92336518,42.85606929,http://www.barewolfbrewing.com,No,Yes,Yes,Yes,Yes,No
-Barnstable Brewing,Massachusetts,Hyannis,485 W Main St,-70.31159594,41.64913517,http://www.barnstablebrewing.com,Yes,Yes,Yes,Yes,No,No
+Banded Brewing Company,Maine,Biddeford,32 Main St. Bldg 13-W Ste 102,-70.4521876807782,43.49300375,http://www.bandedhorn.com,Yes,Yes,No,Yes,Yes,No
+Bangor Beer Co.,Maine,Bangor,330 Bangor Mall Blvd,-68.7525613,44.82715,http://www.bangorbeerco.com,Yes,Yes,Yes,Yes,Yes,Yes
+BareWolf Brewing,Massachusetts,Amesbury,12 Oakland St,-70.92336518,42.85606929,http://www.barewolfbrewing.com,Unknown,Yes,Unknown,Yes,Yes,Unknown
+BarkEater Craft Brewery,New York,Lowville,5411 Shady Ave,-75.4867252,43.7874658,http://www.barkeaterbrew.com,No,Yes,No,No,Yes,No
+Barnstable Brewing,Massachusetts,Hyannis,485 W Main St,-70.31159594,41.64913517,http://www.barnstablebrewing.com,Yes,Yes,No,Yes,No,No
+Barrage Brewing Co,New York,Farmingdale,32 Allen Blvd Ste E,-73.4248307257544,40.71625055,http://www.barragebrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 Barrel House Z,Massachusetts,Weymouth,95 Woodrock Rd,-70.9278014225444,42.1925308,http://www.barrelhousez.net,Yes,Yes,No,Yes,Yes,No
-Barrington Brewery and Restaurant,Massachusetts,Great Barrington,420 Stockbridge Rd,-73.3437039,42.2133283,http://www.barringtonbrewery.net,Yes,Yes,Yes,No,No,Yes
-Bent Water Brewing Company,Massachusetts,Lynn,180 Commercial St,-70.9574158257149,42.45664355,http://www.bentwaterbrewing.com,Yes,Yes,No,Yes,Yes,No
-Berkley Beer Company,Massachusetts,Taunton,10 Ingell St,-71.0820209443733,41.89522385,http://www.berkleybeer.com,Yes,Yes,No,No,No,No
-Berkshire Brewing Co Inc,Massachusetts,South Deerfield,12 Railroad St,-72.61025086,42.47779797,http://www.Berkshire-Brewing.com,Yes,Yes,No,Yes,Yes,Yes
-Big Elm Brewing,Massachusetts,Sheffield,65 Silver St,-73.351236,42.093595,http://www.bigelmbrewery.com,Yes,No,Yes,Yes,No,Yes
-Bog Iron Brewing Co,Massachusetts,Norton,33 W Main St,-71.18849942,41.96658468,,Yes,Yes,No,Yes,Yes,No
-Bone Up Brewing Co.,Massachusetts,Everett,38 Norman St,-71.0663396,42.405551,http://www.boneup.beer,Yes,Yes,Yes,Yes,Yes,Yes
+Barreled Souls Brewing Company LLC,Maine,Saco,743 Portland Rd,-70.405728,43.553358,http://www.barreledsouls.com,Yes,Yes,No,Yes,Yes,No
+Barrier Brewing Co,New York,Oceanside,3001 New St Ste A2,-73.6561304,40.6391764,http://www.barrierbrewing.com,Yes,Yes,Yes,No,Yes,No
+Barrington Brewery and Restaurant,Massachusetts,Great Barrington,420 Stockbridge Rd Ste 4,-73.3437039,42.2133283,http://www.barringtonbrewery.net,Yes,Yes,Yes,No,No,No
+Bath Brewing Company,Maine,Bath,141 Front St,-69.81414593,43.91408541,http://www.bathbrewing.com,Yes,Yes,No,No,No,No
+Battery Steele Brewing,Maine,Portland,1 Industrial Way Ste 12,-70.3200172388802,43.70282555,http://www.batterysteele.com,Yes,Yes,No,No,No,Yes
+Battle Hill Brewing Company,New York,Fort Ann,4 Charles Street,-73.48739346,43.41676935,http://www.battlehillbrewing.com,Yes,Yes,No,No,No,No
+"Baxter Brewing Co, LLC",Maine,Lewiston,130 Mill St,-70.219607,44.09567728,http://www.baxterbrewing.com,Yes,Yes,No,No,No,Yes
+Bear Bones Beer,Maine,Bridgton,2 Cottage St Ste 1,-70.7105424,44.0541943,,No,Yes,Yes,No,No,No
+Bear Bones Beer,Maine,Lewiston,43 Lisbon St,-70.09605519,44.02012732,http://www.bearbonesbeer.com,Yes,Yes,Yes,No,Yes,Yes
+Beara Brewing Co.,New Hampshire,Portsmouth,2800 Lafayette Rd,-70.790732,43.027935,http://www.bearairishbrew.com,No,Yes,No,No,Yes,Yes
+Beer On Earth,Rhode Island,Providence,425 W Fountain St #104,-71.4238514,41.8189698,http://www.beeronearth.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Bent Water Brewing Company,Massachusetts,Lynn,180 Commercial St Ste 18,-70.9574158257149,42.45664355,http://www.bentwaterbrewing.com,Yes,Yes,No,No,Yes,No
+Berkshire Brewing Co Inc,Massachusetts,South Deerfield,12 Railroad St,-72.61025086,42.47779797,http://www.Berkshire-Brewing.com,Yes,Yes,Yes,Yes,No,Yes
+Big Alice Brewing Company,New York,Long Island City,808 43rd Rd,-73.949464,40.7514585,http://www.bigalicebrewing.com,Yes,No,No,Yes,No,Yes
+Big Ditch Brewing Company,New York,Buffalo,55 E Huron St,-78.8709352,42.888031,http://www.bigditchbrewing.com,Yes,Yes,No,No,No,No
+Big Elm Brewing,Massachusetts,Sheffield,65 Silver St,-73.351236,42.093595,http://www.bigelmbrewery.com,Yes,No,Yes,No,No,Yes
+Big Slide Brewery,New York,Lake Placid,5686 Cascade Road,-73.96977615,44.26461237,http://www.bigslidebrewery.com,Yes,Yes,No,No,No,No
+Bigelow Brewing Company,Maine,Skowhegan,473 Bigelow Hill Rd,-69.72961613,44.71991967,http://www.bigelowbrewing.com,Yes,Yes,Yes,Yes,Yes,No
+Bissell Brothers Brewing,Maine,Portland,4 Thompsons Pt Ste 108,-70.2904097,43.6514062,http://www.bissellbrothers.com,Yes,Yes,No,No,No,No
+Black Bear Brewery,Maine,Orono,19 Mill St Ste 4,-68.6712725,44.8830619,http://www.blackbearmicrobrew.com,Yes,Yes,No,No,Yes,No
+Black Hat Brew Works,Massachusetts,Bridgewater,25 Scotland Blvd # 1,-71.0060901248134,41.9744815,http://www.blackhatbrewworks.com,No,Yes,No,No,No,No
+Black Pond Brews,Connecticut,Danielson,21A Furnace St,-71.88394473,41.80470085,http://www.blackpondbrews.com,Yes,Yes,No,No,No,Yes
+Blasty Bough Brewing Company,New Hampshire,Epsom,3 Griffin Rd,-71.2932629,43.20382502,http://www.blastybough.com,Yes,Yes,Yes,No,Yes,No
+"Blue Collar Brewery, Inc.",New York,Poughkeepsie,40 Cottage St,-73.91831,41.707234,http://www.thebluecollarbrewery.com,Yes,Yes,No,No,No,No
+Blue Line Brewery,New York,Saranac Lake,555 Lake Flower Ave,-74.11766659,44.31358605,http://www.bluelinebrew.com,Yes,Yes,Yes,No,No,No
+Blue Point Brewing Co,New York,Patchogue,161 River Ave,-73.0216063,40.75913445,http://www.bluepointbrewing.com,Yes,Yes,Yes,No,Yes,Yes
+Blue Point Brewing,New York,Patchogue,225 West Main St,-73.02103705,40.76644215,,Yes,Yes,Yes,No,Yes,Yes
+Bobcat Brewery & Cafe,Vermont,Bristol,5 Main St,-73.07811204,44.13284975,http://www.bobcatcafe.com,No,Yes,No,No,No,No
+Bog Iron Brewing Co,Massachusetts,Norton,33 W Main St,-71.18849942,41.96658468,,Yes,Yes,No,No,Yes,No
+Bone Up Brewing Co.,Massachusetts,Everett,38 Norman St,-71.0663396,42.405551,http://www.boneup.beer,Yes,Yes,No,Yes,Yes,No
+"Boothbay Craft Brewery, Inc",Maine,Boothbay,301 Adams Pond Rd,-69.6336308,43.881288,http://www.boothbaycraftbrewery.com,Yes,Yes,No,No,No,Yes
+"Boots Brewing Company, Inc.",New York,Watertown,89 Public Sq,-75.90904644,43.97475173,http://www.bootsbrew.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Border Brewery/Border Brew Supply,New Hampshire,Salem,224 N Broadway Ste D14,-71.2332535,42.7897414,http://www.borderbrewsupply.com,No,Yes,Yes,No,No,No
+"Bottomless Brewing, LLC",New York,Geneva,3543 E Lake Rd,-76.9332228514626,42.8547345,http://www.bottomlessbrewing.com,Yes,Yes,Yes,Yes,Yes,No
+Brass Works Brewing Company LLC,Connecticut,Waterbury,2066 Thomaston Ave,-73.05753662,41.59747633,http://www.brassworksbrewing.com,Yes,Yes,No,Yes,No,No
+Braven Brewing Company,New York,Brooklyn,,-73.9966803,40.6038604,,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Braven Brewing Company,New York,Brooklyn,362 Jefferson St # 320,-73.92464725,40.70559895,http://www.bravenbrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 "Brew Practitioners, LLC.",Massachusetts,Florence,36 Main St,-72.66828595,42.334563,http://www.brewpractitioners.com,Yes,Yes,Yes,No,Yes,No
+Brewery Legitimus,Connecticut,New Hartford,283 Main St,-72.9627425,41.8684335,http://www.brewerylegitimus.com,Yes,Yes,Yes,Yes,Yes,No
+Brewery Ommegang,New York,Cooperstown,656 County Highway 33,-74.855063,42.753418,http://www.ommegang.com,Yes,Yes,No,No,Yes,Yes
 Brewery Silvaticus,Massachusetts,Amesbury,9 Water St,-70.9295559,42.8573815,http://www.silvaticusbeers.com,Yes,Yes,No,No,No,No
-Brick and Feather Brewery,Massachusetts,Turners Falls,78 11th St,-72.564825,42.602503,http://www.brickandfeatherbrewery.com,Yes,Yes,Yes,No,No,No
-Building 8 Brewing,Massachusetts,Florence,320 Riverside Dr,-72.665272,42.3202712,,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Buzzards Bay Brewing Co,Massachusetts,Westport,98 Horseneck Rd,-71.04970461,41.55207456,http://www.buzzardsbrew.com,Yes,Yes,Yes,Yes,Yes,No
-Cambridge Brewing Co,Massachusetts,Cambridge,1 Kendall Sq,-71.0827093,42.3637754,http://www.cambridgebrewingcompany.com,Yes,Yes,Yes,No,Yes,Yes
-Cape Ann Brewing Co,Massachusetts,Gloucester,11 Rogers St,-70.66509344,42.61161602,,Yes,Yes,No,Yes,Yes,Yes
-Cape Ann Lanes,Massachusetts,Gloucester,53 Gloucester Ave,-70.6715187473662,42.6224113,,No,Yes,No,Yes,No,No
-Cape Cod Beer,Massachusetts,Hyannis,1336 Phinneys Ln,-70.3128973,41.6763944,http://www.capecodbeer.com,Yes,Yes,Yes,Yes,Yes,Yes
-Castle Island Brewing Co.,Massachusetts,Norwood,31 Astor Ave,-71.19186438,42.16931297,http://www.castleislandbeer.com,Yes,Yes,Yes,Yes,No,Yes
-Cheeky Monkey Brewing Co / Lucky Strike Jillians,Massachusetts,Boston,3 Lansdowne St,-71.0946215,42.34729,http://www.cheekymonkeyboston.com,Yes,Yes,No,Yes,Yes,Yes
-Cisco Brewers,Massachusetts,Nantucket,5 Bartlett Farm Rd,-70.1292845,41.26135815,http://www.ciscobrewers.com,Yes,Yes,Yes,Yes,Yes,Yes
-Cold Harbor Brewing Company,Massachusetts,Westborough,108 Milk St,-71.6250358,42.2739347,http://www.coldharborbrewing.com,Yes,Yes,Yes,Yes,Yes,No
-"CraftRoots Brewing, LLC.",Massachusetts,Milford,4 Industrial Rd,-71.4923164,42.1415084,http://www.craftrootsbrewing.com,Yes,Yes,Yes,No,Yes,No
-Crue Brew Brewery,Massachusetts,Raynham,95 Ryan Dr,-71.0732263,41.97778085,http://www.cruebrewbrewery.com,Yes,Yes,No,No,No,No
+Brewport Brewing Co,Connecticut,Bridgeport,225 S Frontage Rd,-73.19238627,41.170877,http://www.brewportct.com,Yes,Yes,No,Yes,No,No
+BrewSA Brewing Co,New York,Freeport,180 Woodcleft Ave,-73.582368,40.635176,http://www.brewsa.com,Yes,Unknown,Unknown,Yes,Yes,Unknown
+Brick and Feather Brewery,Massachusetts,Turners Falls,78 11th St,-72.564825,42.602503,http://www.brickandfeatherbrewery.com,Yes,Yes,Unknown,Unknown,Unknown,Unknown
+Brick House Brewery and Restaurant,New York,Patchogue,67 W Main St,-73.01556054,40.7657941,http://www.brickhousebrewery.com,Yes,Yes,Yes,No,Yes,No
+Brickyard Brewing Company,New York,Lewiston,436 Center St,-79.04306419,43.1729222,http://www.brickyardbrewingcompany.com,Yes,Yes,No,No,No,No
+Bridge And Tunnel Brewery,New York,Ridgewood,15-35 Decatur St,-73.9017521,40.6943348,http://www.bridgeandtunnelbrewery.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Brindle Haus Brewing Company,New York,Spencerport,377 S Union St,-77.804122,43.185296,http://www.brindlehausbrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Broad Brook Brewing Company,Connecticut,Suffield,915 South St,-72.66266463,41.96200785,http://www.broadbrookbrewing.com,Yes,Yes,No,No,No,Yes
+Broken Bow Brewery,New York,Tuckahoe,173 Marbledale Rd,-73.8190325,40.9549645,http://www.brokenbowbrewery.com,Yes,Yes,No,No,No,No
+Broken Symmetry Gastro Brewery,Connecticut,Bethel,5 Depot Pl,-73.41424776,41.37097334,,Yes,Yes,No,Yes,No,Yes
+Brown's Brewing Co,New York,North Hoosick,50 Factory Hill Rd,-73.34515821,42.92661444,http://www.brownsbrewing.com,Yes,Yes,Yes,No,Yes,No
+Brown's Brewing Co,New York,Troy,417 River St,-73.68755002,42.73567746,http://www.brownsbrewing.com,Yes,Yes,No,No,No,No
+Buffalo Brewing Company,New York,Buffalo,314 Myrtle Ave,-78.85968835,42.87851264,http://www.buffalo-brewing-company.com,Yes,Yes,No,No,No,No
+Buffalo Brewpub,New York,Buffalo,6861 Main St,-78.831057,42.946564,http://www.buffalobrewpub.com,Yes,Yes,No,No,Yes,No
+Buffalo RiverWorks Brewery,New York,Buffalo,359 Ganson St,-78.87249292,42.8696795,http://www.buffaloriverworks.com,Yes,Yes,No,Yes,Yes,No
+Building 8 Brewing,Massachusetts,Florence,320 Riverside Dr Ste 8,-72.665272,42.3202712,,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Bullthistle Brewing Co.,New York,Sherburne,45 S Main St,-75.49576861,42.67156527,,Yes,Yes,No,No,No,No
+Bunker Brewing Co,Maine,Portland,17 Westfield St Unit D,-70.2838257,43.6525826,http://www.bunkerbrewingco.com,Yes,Yes,No,Yes,No,No
+Burlington Beer Company,Vermont,Williston,25 Omega Dr Ste 150,-73.1268588444339,44.4477733541485,http://www.burlingtonbeercompany.com,Yes,Yes,Yes,Yes,Yes,Yes
+Burnt Timber Brewing,New Hampshire,Wolfeboro,96 Lehner St,-71.20968924,43.58632316,http://www.burnttimbertavern.com,Yes,Yes,No,Yes,No,No
+Butternuts Beer,New York,Garrattsville,4021 State Highway 51,-75.1914973,42.62396243,http://www.butternutsbeer.com,Yes,Yes,No,No,No,Yes
+Buttonwoods Brewery,Rhode Island,Cranston,530 Wellington Ave Ste 22,-71.4263784,41.7731564,http://www.buttonwoodsbrewery.com,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+Buzzards Bay Brewing Co,Massachusetts,Westport,98 Horseneck Rd,-71.04970461,41.55207456,http://www.buzzardsbrew.com,Yes,Yes,No,Yes,Yes,No
+Cambridge Brewing Co,Massachusetts,Cambridge,1 Kendall Sq Ste B1102,-71.0827093,42.3637754,http://www.cambridgebrewingcompany.com,Yes,Yes,No,No,No,No
+Cambridge House Brew Pub - Granby,Connecticut,Granby,357 Salmon Brook St,-72.79259539,41.96631414,http://www.cbh.beer,Yes,Yes,No,No,Yes,No
+Candia Road Brewing / Nepenthe Ale House,New Hampshire,Manchester,840 Candia Rd,-71.41301096,42.9849563,http://www.candiaroad.com,No,Yes,No,No,No,No
+Canterbury Aleworks,New Hampshire,Canterbury,305 Baptist Hill Rd,-71.51484346,43.38577573,http://www.canterburyaleworks.com,Yes,Yes,No,No,No,Yes
+Cape Ann Brewing Co,Massachusetts,Gloucester,11 Rogers St,-70.66509344,42.61161602,,Yes,Yes,No,Yes,Yes,No
+Cape Cod Beer,Massachusetts,Hyannis,1336 Phinneys Ln Ste 2-2,-70.3128973,41.6763944,http://www.capecodbeer.com,Yes,Yes,Yes,Yes,Yes,Yes
+Captain Lawrence Brewing Co,New York,Elmsford,444 Saw Mill River Rd Ste 100,-73.839113,41.03486,http://www.captainlawrencebrewing.com,Yes,Yes,Yes,Yes,Yes,Yes
+Carey's Brew House,New York,Corning,58 Bridge St,-77.06089704,42.15025771,http://www.careysbrewhouse.com,Yes,Yes,No,No,No,No
+Castle Island Brewing Co.,Massachusetts,Norwood,31 Astor Ave,-71.19186438,42.16931297,http://www.castleislandbeer.com,No,Yes,No,Yes,No,Yes
+Catskill Brewery,New York,Livingston Manor,672 Old Route 17,-74.827173,41.911407,http://www.catskillbrewery.com,Yes,Yes,Yes,No,Yes,No
+Charter Oak Brewing Company LLC,Connecticut,Danbury,39B Shelter Rock Rd,-73.40421711,41.3961903,http://www.charteroakbrewing.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Chatham Brewing LLC,New York,Chatham,59 Main St,-73.59546931,42.36315065,http://www.chathambrewing.com,Yes,Yes,No,No,Yes,No
+Cheeky Monkey Brewing Co / Lucky Strike Jillians,Massachusetts,Boston,3 Lansdowne St,-71.0946215,42.34729,http://www.cheekymonkeyboston.com,Yes,Yes,No,Yes,No,Yes
+Circa Brewing Co,New York,Brooklyn,141 Lawrence St,-73.986155,40.6917243,http://www.circabrewing.co,Yes,Yes,No,No,Yes,No
+Cisco Brewers,Massachusetts,Nantucket,5 Bartlett Farm Rd,-70.1292845,41.26135815,http://www.ciscobrewers.com,Yes,Yes,Yes,No,Yes,Yes
+Clemson Bros. Brewery,New York,Middletown,22 Cottage St,-74.41622495,41.44693028,http://www.clemsonbrewing.com,Yes,Yes,No,Yes,No,No
+Cliffside Brewing,Connecticut,Wallingford,16B Center St,-72.8236736,41.45664583,http://www.cliffsidebrewing.com,No,No,No,No,No,No
+Climbing Bines Craft Ale Company,New York,Penn Yan,511 Hanson Point Rd,-76.941488,42.659547,http://www.climbingbineshopfarm.com,Yes,Yes,Yes,Yes,No,No
+Coddington Brewing Co,Rhode Island,Middletown,210 Coddington Hwy,-71.3049167,41.51869514,https://coddbrew.com,Yes,Yes,No,Yes,No,No
+Cold Creek Brewery,Connecticut,Ellington,6 Industrial Dr,-72.456028,41.9209531,http://coldcreekbrewery.com,No,Yes,No,No,No,No
+Cold Harbor Brewing Company,Massachusetts,Westborough,108 Milk St Ste 6,-71.6250358,42.2739347,http://www.coldharborbrewing.com,Yes,Yes,Yes,No,No,No
+Common Roots Brewing Company,New York,South Glens Falls,58 Saratoga Ave,-73.636491081057,43.29526205,http://www.commonrootsbrewing.com,Yes,Yes,Yes,No,No,Yes
+Community Beer Works,New York,Buffalo,15 Lafayette Ave,-78.8980697,42.9198446,http://www.communitybeerworks.com,Yes,Yes,No,Yes,No,No
+Concord Craft Brewery,New Hampshire,Concord,117 Storrs St,-71.534205,43.204108,http://www.concordcraftbrewing.com,No,Yes,Yes,No,No,Yes
+Coney Island Beer,New York,Brooklyn,1904 Surf Ave,-73.98572367,40.57502661,http://www.coneyislandbeer.com,Yes,Yes,No,No,Yes,Yes
+Connecticut Valley Brewing Company,Connecticut,South Windsor,765 Sullivan Ave,-72.57147904,41.84872829,http://www.ctvalleybrewing.com,Yes,Yes,Yes,Yes,Yes,No
+Coopers Cave Ale Co,New York,Glens Falls,2 Sagamore St,-73.6399437,43.3177399,http://www.cooperscaveale.com,Yes,Yes,No,No,No,No
+Cooperstown Brewing Co,New York,Oneonta,41 Browne St.,-75.10942405,42.45118586,,Yes,Yes,No,Yes,No,Yes
+Copper City Brewing Company,New York,Rome,1111 Oneida St,-75.43229951,43.20521338,http://www.coppercitybrewing.com,Yes,Yes,No,No,Yes,No
+Copper Turret Restaurant and Brewhouse,New York,Morrisville,17 W Main St,-75.6487902,42.89903413,http://www.copperturret.com,No,Yes,No,No,No,No
+Cortland Beer Company,New York,Cortland,16 Court St,-76.17989771,42.5994031,http://www.cortlandbeer.com,Yes,Yes,No,No,Yes,No
+Cottrell Brewing Co,Connecticut,Pawcatuck,100 Mechanic St,-71.834289,41.370676,http://www.cottrellbrewing.com,No,Yes,Yes,No,No,Yes
+Council Rock Brewery,New York,Cooperstown,4861 State Highway 28 Ste 3,-74.9595316,42.6585398,http://www.councilrockbrewery.com,No,Yes,No,No,No,No
+Cousins Revolution Ale Works,New York,Wappingers Falls,1582 US 9,-73.91146279,41.59803345,http://www.cousinsrevolution.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+"CraftRoots Brewing, LLC.",Massachusetts,Milford,4 Industrial Rd Ste 8,-71.4923164,42.1415084,http://www.craftrootsbrewing.com,Yes,Yes,No,No,Yes,No
+Crafty Ales and Lagers,New York,Phelps,2 Exchange St,-77.056976,42.9579011,http://www.drinkcraftyales.com,Yes,Yes,No,No,Yes,No
+Critz Farms Brewing & Cider Co.,New York,Cazenovia,3232 Rippleton Rd,-75.8746342,42.8805302,http://www.critzfarms.com,Yes,Yes,No,No,Yes,No
+Crooked Current Brewery,Rhode Island,Pawtucket,560 Mineral Spring Ave Ste 2-112,-71.4057415,41.8726983,http://www.crookedcurrentbrewery.com,Yes,Yes,No,No,No,No
+Crooked Ladder Brewery,New York,Riverhead,70 W Main St,-72.66319867,40.91701672,http://www.crookedladderbrewingco.com,No,Yes,No,No,No,Yes
+Crossroads Brewing Co,New York,Athens,21 2nd St,-73.8100641,42.2605541,http://www.crossroadsbrewingco.com,No,Yes,No,No,No,No
+Crue Brew Brewery,Massachusetts,Raynham,95 Ryan Dr Ste 6,-71.0732263,41.97778085,http://www.cruebrewbrewery.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Cushnoc Brewing Company,Maine,Augusta,243 Water St,-69.77344232,44.31664349,http://www.cushnocbrewing.com,Yes,Yes,No,No,No,No
+Deciduous Brewing Company,New Hampshire,Newmarket,12 Weaver St,-70.9368093,43.0811307,,No,Yes,No,No,No,No
+Defiant Brewing Co,New York,Pearl River,6 E Dexter Plz,-74.02302217,41.06015492,http://www.defiantbrewing.com,Yes,Yes,No,No,Yes,No
+Definitive Brewing Company,Maine,Portland,35 Industrial Way,-70.3142737,43.70629522,http://www.definitivebrewing.com,Yes,Yes,No,No,No,No
 Democracy Brewing,Massachusetts,Boston,35 Temple Pl,-71.06231578,42.35529623,http://www.democracybrewing.com,Yes,Yes,No,No,No,No
-Devil's Purse Brewing Co,Massachusetts,South Dennis,120 Great Western Rd,-70.1416854,41.6885379,http://www.devilspurse.com,Yes,Yes,Yes,Yes,No,Yes
-Distraction Brewing Company,Massachusetts,Roslindale,2 Belgrade Ave,-71.13016,42.286947,http://www.distractionbrewingco.com,No,Yes,No,No,No,No
-Dorchester Brewing Company,Massachusetts,Dorchester,1250 Massachusetts Ave,-71.0615585,42.3204879,http://www.dorchesterbrewing.com,Yes,Yes,No,Yes,Yes,Yes
+Devil's Purse Brewing Co,Massachusetts,South Dennis,120 Great Western Rd,-70.1416854,41.6885379,http://www.devilspurse.com,No,Yes,Yes,Yes,No,No
+Dirigo Brewing Co.,Maine,Biddeford,28 Pearl St,-70.45608584,43.49545704,http://www.dirigobrewingcompany.com,Yes,Yes,Yes,No,Yes,No
+Diversion Brewing Co,New York,Chemung,729 Wyncoop Creek Rd,-76.62211,42.019871,http://www.diversionbrewing.com,Yes,Yes,Yes,No,Yes,No
+Dorchester Brewing Company,Massachusetts,Dorchester,1250 Massachusetts Ave,-71.0615585,42.3204879,http://www.dorchesterbrewing.com,Yes,Yes,No,Yes,No,Yes
 Drunken Rabbit Brewing,Massachusetts,South Hadley,749A New Ludlow Rd,-72.553245,42.217914,http://www.rabbit.beer,Yes,Yes,No,Yes,Yes,No
-Element Brewing Co,Massachusetts,Millers Falls,16 Bridge St,-72.49516039,42.57950929,http://www.elementbeer.com,No,Yes,No,Yes,Yes,No
-Exhibit 'A' Brewing Co.,Massachusetts,Framingham,81 Morton St,-71.40187088,42.27880435,http://www.exhibit-A-brewing.com,Yes,Yes,No,Yes,Yes,Yes
-Flying Dreams Brewing Co.,Massachusetts,Worcester,455B Park Ave,-71.82618857,42.25419957,http://www.flyingdreamsbrewing.com,Yes,No,No,No,Yes,No
+Druthers Brewing Co,New York,Saratoga Springs,381 Broadway,-73.786511,43.0809016,http://www.druthersbrewing.com,Yes,Yes,Yes,No,Yes,No
+Duvig Brewing Co,Connecticut,Branford,59 School Ground Rd Ste 10,-72.7673143,41.3031742,http://www.duvig.com,Yes,Yes,No,No,No,No
+Earth Eagle Brewing,New Hampshire,Portsmouth,165 High Street,-70.75957196,43.0792548,http://www.eartheaglebrewings.com,Yes,Yes,Yes,No,No,Yes
+Eastwood Brewing Company,New York,Syracuse,108 Walter Dr,-76.0980832,43.0701121,http://www.facebook.com/eastwoodbrewingcompany,Yes,Yes,No,Yes,No,No
+Element Brewing Co,Massachusetts,Millers Falls,16 Bridge St,-72.49516039,42.57950929,http://www.elementbeer.com,No,Yes,No,Yes,No,No
+Eli Fish Brewing Company,New York,Batavia,109 Main St,-78.18219898,42.99732747,http://www.elifishbrewing.com,No,Yes,No,No,No,No
+Elm City Brewing Company,New Hampshire,Keene,222 West St Ste 46,-72.286847,42.9317986,http://www.elmcitybrewing.com,Yes,Yes,No,No,No,No
+Epicure Brewing,Connecticut,Norwich,40 Franklin St,-72.07437477,41.52521341,http://www.epicurebrewing.com,No,Yes,No,Yes,No,No
+Equilibrium Brewery,New York,Middletown,22 Henry Street,-74.42143934,41.44646965,http://www.eqbrew.com,Yes,Yes,Unknown,Unknown,Unknown,Unknown
+Exhibit 'A' Brewing Co.,Massachusetts,Framingham,81 Morton St,-71.40187088,42.27880435,http://www.exhibit-A-brewing.com,Yes,Yes,No,No,No,No
+Fairfield Craft Ales,Connecticut,Stratford,724 Honeyspot Rd,-73.14702832,41.17565816,http://www.fairfieldcraftales.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Fairport Brewing Co,New York,Fairport,99 S Main St,-77.4416792,43.0988098,http://www.fairportbrewing.com,Yes,Yes,Yes,No,Yes,No
+Fairport Brewing Co,New York,Fairport,1000 Turk Hill Rd Ste 298,-77.4318547,43.0959785,,Yes,Yes,Yes,No,Yes,No
+Fiddlehead Brewing,Vermont,Shelburne,6305 Shelburne Rd,-73.2326193,44.3660621,http://www.fiddleheadbrewing.com,No,Yes,No,No,No,No
+Fifth Frame Brewing Co.,New York,Rochester,155 Saint Paul St,-77.61019544,43.15996034,http://www.fifthframe.co,No,Yes,No,No,No,No
+Fifth Hammer Brewing Company,New York,Long Island City,10-28 46th Ave,-73.9515404,40.7464921,http://www.fifthhammerbrewing.com,No,Yes,Yes,No,Yes,Yes
+Finback Brewery,New York,Queens,78-01 77th Ave,-73.8732597,40.7067227,http://www.finbackbrewery.com,Yes,Yes,Yes,Yes,No,Yes
+Firefly Hollow Brewing Co.,Connecticut,Bristol,139 Center St Ste 5005,-72.9448257266976,41.6761820004435,http://www.fireflyhollowbrewing.com,Yes,Yes,Yes,No,Yes,No
+First Mile Brewing Company,Maine,Fort Kent,28 Market St Ste 103,-68.5877377328301,47.2567221557786,,No,Yes,No,No,No,No
+Five Boroughs Brewing Co,New York,Brooklyn,215 47th St,-74.0144263,40.6505216,http://www.fiveboroughs.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Five Churches Brewing,Connecticut,New Britain,193 Arch St,-72.782706,41.662994,http://www.facebook.com/FiveChurchesBrewing,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+"Flagship Brewery, LLC.",New York,Staten Island,40 Minthorne St,-74.0756332,40.6372257,http://www.flagshipbrewery.nyc,No,Yes,No,Yes,Yes,Yes
+Flying Bison Brewing Co,New York,Buffalo,840 Seneca St,-78.8458326,42.8758185,http://www.flyingbisonbrewing.com,Yes,Yes,No,Yes,Yes,Yes
+Flying Dreams Brewing Co.,Massachusetts,Worcester,455B Park Ave,-71.82618857,42.25419957,http://www.flyingdreamsbrewing.com,No,No,No,No,No,No
+Flying Goose Brewpub,New Hampshire,New London,40 Andover Rd,-71.9609958263101,43.4010627336139,http://www.flyinggoose.com,Yes,Yes,No,No,No,No
+Foam Brewers,Vermont,Burlington,112 Lake St,-73.2200287,44.4793121,http://www.foambrewers.com,Yes,Yes,Yes,No,Yes,Yes
+Fogtown Brewing Company,Maine,Ellsworth,25 Pine St,-68.42259791,44.5408544,http://www.fogtownbrewing.com,Yes,Yes,No,No,Yes,No
+Foley Brothers Brewing Co.,Vermont,Brandon,79 Stone Mill Dam Rd,-73.0776534429029,43.8111171474574,,Yes,Yes,Yes,Yes,No,Yes
+Foolproof Brewing Company,Rhode Island,Pawtucket,241 Grotto Ave,-71.41017837,41.86939069,http://www.foolproofbrewing.com,No,No,No,No,No,Yes
+Foothill Hops Farm Brewery,New York,Munnsville,5024 Bear Path Rd,-75.58610382,42.96463213,http://www.foothillhops.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Fore River Brewing Company,Maine,South Portland,45 Huntress Ave,-70.28767105,43.63249066,http://www.foreriverbrewing.com,Yes,Yes,No,No,No,No
 Fort Hill Brewery,Massachusetts,Easthampton,30 Fort Hill Rd,-72.64143098,42.28503154,http://www.forthillbrewery.com,Yes,Yes,Yes,Yes,Yes,Yes
+Fort Orange Brewing,New York,Albany,450 N Pearl St,-73.74427,42.66372,http://www.fortorangebrewing.com,No,Yes,No,Yes,Yes,No
+Foulmouthed Brewing,Maine,South Portland,15 Ocean St,-70.2548007,43.640989,http://www.foulmouthedbrewing.com,Yes,Yes,Yes,Yes,Yes,No
+Foundation Brewing Company,Maine,Portland,1 Industrial Way Ste 5,-70.3200172388802,43.70282555,http://www.foundationbrew.com,Yes,Yes,No,Yes,No,Yes
+Four Quarters Brewing Co,Vermont,Winooski,150 W Canal St,-73.1924334,44.4906838,http://www.4qbc.com,Yes,Yes,No,Yes,Yes,No
+Fox Farm Brewery,Connecticut,Salem,62 Music Vale Rd,-72.26788506,41.48370071,http://foxfarmbeer.com,Yes,Yes,Yes,Yes,No,No
+Fox N Hare Brewing Company,New York,Port Jervis,46 Front St,-74.69088263,41.37253067,http://www.foxnhare-brewing.com,No,Yes,No,No,No,No
+Friars' Brewhouse,Maine,Bucksport,84 Main St,-68.79558414,44.57202344,,Yes,Yes,No,No,No,No
+From the Barrel Brewing Company,New Hampshire,Londonderry,15 Londonderry Rd Unit 9,-71.34133725,42.87642545,http://www.drinkfromthebarrel.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Front Porch Brewing,Connecticut,Wallingford,226 N. Plains Industrial Rd Unit 4,-72.8182926,41.47205,http://www.frontporchbrewing.org,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Frost Beer Works,Vermont,Hinesburg,171 Commerce St,-73.1089808,44.3353247,http://www.frostbeerworks.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Full Boar Craft Brewery,New York,North Syracuse,628 S Main St Ste C,-76.1411024,43.1250714,http://www.fullboarbrew.com,No,Yes,No,Yes,Yes,No
+Fulton Chain Craft Brewery,New York,Old Forge,127 North St,-74.97002515,43.71499275,http://www.fccbrewery.com,No,Yes,No,No,No,No
+Funky Bow Brewery & Beer Company,Maine,Lyman,21 Ledgewood Ln,-70.60146195,43.48539497,http://www.funkybowbeercompany.com,Yes,Yes,Yes,No,Yes,Yes
+Garden of Eve Farm Brewery,New York,Riverhead,4558 Sound Ave,-72.648395,40.96775,http://www.facebook.com/farmbrewery,Yes,Yes,No,No,Yes,Yes
+Garrison City Beerworks,New Hampshire,Dover,455 Central Ave,-70.87391507,43.19759761,http://www.GarrisonCityBeerworks.com,Yes,Yes,No,No,No,Yes
+Gary's Olde Towne Tavern,Maine,Naples,678 Roosevelt Trl,-70.601073,43.969705,http://www.garysoldetownetavern.com,Yes,Yes,No,No,Yes,No
+Geaghan Brothers Brewing Co,Maine,Brewer,34 Abbott St,-68.77310776,44.78208079,http://www.geaghanspub.com,No,Yes,No,No,No,No
+Geaghan's Pub & Craft Brewery,Maine,Bangor,570 Main St,-68.777503,44.7867295,http://www.geaghanspub.com,Yes,Yes,No,No,Yes,No
+Gene McCarthy's/Old First Ward Brewing Company,New York,Buffalo,73 Hamburg St,-78.85957723,42.86654075,http://www.genemccarthys.com,Yes,Yes,No,No,Yes,Yes
+Genesee Brew House / North American Breweries,New York,Rochester,25 Cataract St,-77.6147783,43.163584,http://www.geneseebeer.com,Yes,Yes,No,No,No,Yes
+Gentle Giant Brewing Company,New York,Pearl River,7 N Main St,-74.02171299,41.05938885,http://gentlegiantbrewing.com/,Yes,Yes,No,Yes,Yes,No
+"Glenmere Brewing Co, Inc",New York,Florida,55 Maple Ave,-74.360033,41.335404,http://www.glenmerebrewingco.com,Unknown,Yes,Yes,Unknown,Yes,Unknown
+Gneiss Brewing,Maine,Limerick,94 Patterson Rd,-70.81799747,43.64831306,http://www.gneissbeer.com,Unknown,Unknown,Unknown,Yes,Unknown,Unknown
+Good Measure Brewing Co,Vermont,Northfield,17 East St,-72.6556223,44.1487966,http://www.goodmeasurebrewing.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Good Nature Farm Brewery,New York,Hamilton,1727 State Route 12b,-75.54560551,42.807293,http://goodnaturebrewing.com,Yes,Yes,No,No,Yes,No
+Goodfire Brewing Company,Maine,Portland,219 Anderson St Ste 6,-70.2559112851484,43.67019735,http://www.goodfirebrewing.com,Yes,No,No,No,No,Yes
+Granite Roots Brewing,New Hampshire,Troy,244 N Main St,-72.18973144,42.84401358,http://www.graniterootsbrewing.com,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
 Greasy Luck Brewery,Massachusetts,New Bedford,791 Purchase St,-70.92607527,41.63507079,http://www.greasyluckbrewery.com,No,Yes,No,No,Yes,No
+Great Adirondack Brewing Company,New York,Lake Placid,2442 Main St,-73.985385,44.288397,http://www.adksteakandseafood.com,Yes,Yes,Yes,No,No,No
+Great Flats Brewing,New York,Schenectady,151 Lafayette St,-73.93839638,42.81243538,http://www.greatflatsbrewing.com,No,Yes,No,No,No,No
+Great North Aleworks,New Hampshire,Manchester,1050 Holt Ave Unit 14,-71.4017915772438,42.97777435,http://greatnorthaleworks.com,Yes,Yes,No,Yes,No,Yes
+Great Rhythm Brewing Co.,New Hampshire,Portsmouth,105 Bartlett St Ste 6,-70.7703966,43.0735007,http://www.greatrhythmbrewing.com,Yes,Yes,No,No,No,No
+Great South Bay Brewery,New York,Bay Shore,25 Drexel Dr,-73.263526,40.760891,http://www.greatsouthbaybrewery.com,Unknown,Yes,Unknown,Unknown,Yes,Unknown
 Greater Good Imperial Brew Co,Massachusetts,Worcester,55 Millbrook St,-71.80355503,42.2891295,http://www.greatergoodimperials.com,Yes,Yes,Yes,Yes,Yes,No
-Harpoon Brewery,Massachusetts,Boston,306 Northern Ave Ste 2,-71.0348293,42.3465637,http://www.harpoonbrewery.com,Yes,Yes,Yes,No,Yes,Yes
-High Horse Brewery and Bistro,Massachusetts,Amherst,24 N Pleasant St,-72.5201343,42.376218,http://www.highhorsebrewing.com,Yes,Yes,No,Yes,Yes,No
-Hitchcock Brewing Company,Massachusetts,Whately,129 Christian Ln,-72.60641222,42.44606511,http://www.hitchcockbrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Homefield Brewing,Massachusetts,Fiskdale,3 Arnold Rd,-72.106492436242,42.1156228179171,http://www.homefieldbrewing.com,Yes,Yes,No,No,Yes,Yes
-Honest Weight Artisan Beer,Massachusetts,Orange,131 W Main St,-72.3163710237493,42.59170885,http://www.honestweightbeer.com,No,Yes,No,No,No,No
-Idle Hands Craft Ales,Massachusetts,Malden,89 Commercial St,-71.07473084,42.4243819,http://www.idlehandscraftales.com,No,Yes,No,No,Yes,Yes
-Independent Fermentations Brewing,Massachusetts,Plymouth,127 Camelot Dr,-70.6449136123774,41.9275641,http://www.independentfermentations.com,No,No,Yes,Yes,No,No
-Ipswich Ale Brewery,Massachusetts,Ipswich,2 Brewery Place,-70.8415179756021,42.68094065,http://www.ipswichalebrewery.com,Yes,Yes,Yes,No,Yes,Yes
-Iron Duke Brewing Co,Massachusetts,Ludlow,100 State St,-72.4802408576763,42.1564377195866,http://www.irondukebrewing.com,Yes,Yes,Yes,Yes,Yes,Yes
+Green Wolf Brewing Co,New York,Middleburgh,315 Main St,-74.334814,42.598257,http://www.greenwolfbrew.com,Yes,Yes,No,Yes,No,No
+"Greenport Harbor Brewing Co, LLC",New York,Peconic,42155 Main Rd,-72.4545703,41.0415525,http://www.harborbrewing.com,Yes,Yes,No,No,No,No
+Grey Sail Brewing Co. LLC,Rhode Island,Westerly,63 Canal St,-71.832459,41.385011,http://www.greysailbrewing.com,Yes,Yes,No,Yes,Yes,Yes
+Griffs Brewery,New York,Spencerport,5324 W Ridge Rd,-77.8201651,43.220539,http://www.griffsbrewery.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Grimm Artisanal Ales,New York,Brooklyn,990 Metropolitan Ave,-73.93651911,40.7142757,http://GrimmAles.com,No,Yes,No,No,No,No
+Gritty McDuffs - Freeport,Maine,Freeport,187 Lower Main St,-70.1150074026195,43.8461524593602,http://www.grittys.com,Yes,Yes,No,No,No,No
+Gritty McDuffs - Lewiston/Auburn,Maine,Auburn,68 Main St,-70.22448665,44.0971728,,Yes,Yes,No,No,Yes,No
+Gritty McDuffs - Portland,Maine,Portland,396 Fore St,-70.2533609,43.6564108,http://www.grittys.com,Yes,Yes,No,No,No,No
+Gun Hill Brewing Co,New York,Bronx,3227 Laconia Ave,-73.855814,40.8721114,http://www.gunhillbrewing.com,Yes,Yes,No,Yes,No,Yes
+Half Full Brewery,Connecticut,Stamford,43 Homestead Ave,-73.54959135,41.03933226,http://www.halffullbrewery.com,Yes,Yes,Yes,Yes,No,Yes
+Halyard Brewing Company,Vermont,South Burlington,80 Ethan Allen Dr Ste 2,-73.154307,44.482956,http://www.halyardbrewing.us,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Hamburg Brewing Company,New York,Hamburg,6553 Boston State Rd,-78.8027559326907,42.7110399,http://www.hamburgbrewing.com,Yes,Yes,No,No,Yes,No
+Hanging Hills Brewing Company,Connecticut,Hartford,150 Ledyard St,-72.67011733,41.74481243,http://www.hanginghillsbrewery.com,No,Yes,Yes,No,Yes,Yes
+Harbor Head Brewing Co,New York,Northport,81 Fort Salonga Rd,-73.3539709,40.8908555,http://www.harborheadbrew.com,Yes,Unknown,Yes,Yes,Unknown,Unknown
+Harpoon Brewery,Massachusetts,Boston,306 Northern Ave Ste 2,-71.0348293,42.3465637,http://www.harpoonbrewery.com,Yes,Yes,No,No,No,Yes
+Harpoon Brewery - Vermont,Vermont,Windsor,336 Ruth Carney Dr,-72.40380616,43.51478045,http://www.harpoonbrewery.com,Yes,Yes,No,No,Yes,Yes
+"Henniker Brewing Company, LLC",New Hampshire,Henniker,129 Centervale Rd,-71.7824433,43.17880862,http://www.hennikerbrewing.com,Yes,Yes,Yes,No,Yes,Yes
+"Hermit Thrush Brewery, LLC",Vermont,Brattleboro,29 High St Ste 101C,-72.5595980909091,42.8533872727273,http://www.hermitthrushbrewery.com,No,Yes,No,No,No,Yes
+Hidden Cove Brewing Co,Maine,Wells,73 Mile Rd,-70.58104548,43.30407704,http://www.hiddencovebrewingcompany.com,Yes,Yes,No,Yes,Yes,Yes
+High Horse Brewery and Bistro,Massachusetts,Amherst,24 N Pleasant St,-72.5201343,42.376218,http://www.highhorsebrewing.com,Yes,Yes,No,Yes,No,No
+Hill Farmstead Brewery,Vermont,Greensboro Bend,403 Hill Rd,-72.2628939478338,44.60675315,http://www.hillfarmstead.com,Yes,Yes,Yes,No,No,No
+Hitchcock Brewing Company,Massachusetts,Whately,129 Christian Ln,-72.60641222,42.44606511,http://www.hitchcockbrewing.com,Yes,Yes,Unknown,Unknown,Unknown,Unknown
+Hog River Brewing Co,Connecticut,Hartford,1429 Park St,-72.70182745,41.75799856,http://www.hogriverbrewing.com,No,Yes,No,Yes,No,No
+Homefield Brewing,Massachusetts,Fiskdale,3 Arnold Rd,-72.106492436242,42.1156228179171,http://www.homefieldbrewing.com,No,Yes,No,No,Yes,No
+Honest Weight Artisan Beer,Massachusetts,Orange,131 W Main St Ste 104,-72.3163710237493,42.59170885,http://www.honestweightbeer.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Hop Barn Brewing,New York,Greenville,94 Maple Ave,-74.05510817,42.42134333,http://hopbarnbrewing.com,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+Hop'n Moose Brewing Company,Vermont,Rutland,41 Center St,-72.97743,43.606783,http://www.hopnmoose.com,No,Yes,No,No,Yes,No
+Hopshire Farm and Brewery,New York,Freeville,1771 Dryden Rd,-76.3681633740438,42.48063645,http://www.hopshire.com,Yes,Yes,No,No,Yes,Yes
+Hudson Ale Works,New York,Highland,17 Milton Ave,-73.96390393,41.717539,http://www.hudsonaleworks.com,Yes,Yes,No,Yes,No,No
+Hudson Valley Brewery,New York,Beacon,7 E Main St,-73.9630491,41.5016501,http://www.hudsonvalleybrewery.com,Yes,Yes,Yes,No,Yes,No
+Hyde Park Brewing Co,New York,Hyde Park,4076 Albany Post Rd,-73.93007747,41.76674824,http://www.hydeparkbrewing.com,Yes,Yes,Yes,No,No,No
+Idle Hands Craft Ales,Massachusetts,Malden,89 Commercial St,-71.07473084,42.4243819,http://www.idlehandscraftales.com,No,Yes,No,No,No,No
+Idletyme Brewing Company,Vermont,Stowe,1859 Mountain Rd,-72.698401,44.473833,http://www.idletymebrewing.com,Yes,Yes,No,No,No,No
+In-Law Brewing Co,New York,Chase Mills,5868 County Route 14,-75.04830452,44.88140997,http://www.in-lawbrewingcompany.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Independent Fermentations Brewing,Massachusetts,Plymouth,127 Camelot Dr Ste 3,-70.6449136123774,41.9275641,http://www.independentfermentations.com,No,No,No,No,No,No
+Indian Ladder Farmstead Brewery and Cidery,New York,Altamont,342 Altamont Rd,-73.9729844493349,42.65516385,http://www.ilfcb.com,Yes,Yes,No,No,Yes,No
+Interboro Spirits And Ales,New York,Brooklyn,942 Grand St,-73.9369567,40.7126813,http://www.interboro.nyc,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Ipswich Ale Brewery,Massachusetts,Ipswich,2 Brewery Pl,-70.8415179756021,42.68094065,http://www.ipswichalebrewery.com,Yes,Yes,Yes,No,Yes,Yes
+Irish Mafia Brewing Co,New York,Bloomfield,2971 Whalen Rd,-77.38938696,42.89268134,http://www.irishmafiabrewing.com,Yes,Yes,No,No,No,No
+Iron Brewing Company,Connecticut,Norwalk,136 Washington St,-73.41734954,41.09888787,http://www.ironbrewing.com,No,Yes,No,No,No,No
+Iron Duke Brewing Co,Massachusetts,Ludlow,100 State St Ste 122,-72.4802408576763,42.1564377195866,http://www.irondukebrewing.com,Yes,Yes,Yes,No,Yes,No
+Iron Flamingo Brewery,New York,Corning,196 Baker St,-77.0564722,42.1551591,http://www.ironflamingobrewery.com,Yes,Yes,Yes,Yes,No,No
+Iron Tug Brewing,New York,Rochester,371 Park Ave,-77.5858734539777,43.150246127343,http://www.irontugbrewing.com,Yes,Yes,No,Yes,Yes,No
+Island Dog Brewing,Maine,South Portland,125 John Roberts Rd,-70.33101442,43.63059386,http://www.islanddogbrewing.com,Yes,Yes,Yes,Yes,No,Yes
+Jack Russell's Steakhouse and Brewery / Maine Coast Brewing Co.,Maine,Bar Harbor,102 Eden St,-68.2231868,44.3946497,http://www.jackrussellssteakhouse.com,Yes,Yes,Yes,No,No,No
 Jack's Abby Brewing,Massachusetts,Framingham,100 Clinton St,-71.4109021,42.2800852,http://www.jacksabbybrewing.com,Yes,Yes,No,No,No,Yes
-Kismet Brewing Company,Massachusetts,Westfield,66 S Broad St,-72.7461088083134,42.11027585,http://www.kismetbrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Kretschmann Brewing Company,Massachusetts,Webster,9 Frederick St,-71.8807961,42.05004191,http://kbcbrewery.com,Yes,Yes,No,No,No,No
+Jamesport Farm Brewery,New York,Riverhead,5873 Sound Ave,-72.648395,40.96775,http://www.jamesportbrewhouse.com,Yes,Yes,Yes,Yes,Yes,No
+J'ville Brewery,Vermont,Jacksonville,201 Vt Route 112,-72.8199156,42.7945589,http://www.jvillebrewery.com,Yes,Yes,No,No,No,No
+K2 Brothers Brewing,New York,Rochester,1221 Empire Blvd,-77.549992,43.17664,http://www.K2Brewing.com,Yes,Yes,No,Yes,Yes,No
+Keegan Ales,New York,Kingston,20 Saint James St,-74.012151,41.931636,http://www.keeganales.com,Yes,Yes,Yes,No,Yes,No
+Keg & Lantern Brewing Co,New York,Brooklyn,97 Nassau Ave,-73.95031963,40.7241037,http://www.kegandlanternbrooklyn.com,Yes,Yes,No,Yes,No,No
+Kelsen Brewing Company,New Hampshire,Derry,80 N High St Unit 3,-71.33362795,42.88976235,http://www.kelsenbrewing.com,Yes,Yes,No,No,No,No
+Kennebunkport Brewery / Federal Jacks,Maine,Kennebunk,8 Western Ave Ste 6,-70.4785468989953,43.35929215,http://www.federaljacks.com,Yes,Yes,No,No,No,No
+Kettlehead Brewing Company,New Hampshire,Tilton,407 W Main St,-71.60013898,43.44219881,http://www.kettleheadbrewing.com,Yes,Yes,No,No,Yes,Yes
+Keuka Brewing Co,New York,Hammondsport,8572 Briglin Rd,-77.1916844131466,42.4856505,http://www.keukabrewingcompany.com,Yes,Yes,No,No,Yes,No
+Kingdom Brewing,Vermont,Newport,1876 Vt Route 105,-72.2758670901664,44.9311438377326,http://www.kingdombrewingvt.com,No,Yes,No,No,Yes,Yes
+Kings County Brewers Collective,New York,Brooklyn,381 Troutman St,-73.9236202,40.7060306,http://www.kcbcbeer.com,Yes,Yes,Yes,Yes,Yes,Yes
+Kinsmen Brewing,Connecticut,Milldale,409 Canal Street,-72.9027141,41.56679473,http://www.kinsmenbrewing.com,Yes,Yes,No,Yes,Yes,No
+Knucklehead Craft Brewing,New York,Webster,426 Ridge Rd,-77.51128726,43.20572922,http://www.knuckleheadcraftbrewing.com,No,Yes,No,No,Yes,No
+Kretschmann Brewing Company,Massachusetts,Webster,9 Frederick St,-71.8807961,42.05004191,http://kbcbrewery.com,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+Lafayette Brewing Co,New York,Buffalo,391 Washington St,-78.8734526,42.8847967,http://www.panamericangrill.com,No,Yes,No,Yes,No,No
+Lake Drum Brewing,New York,Geneva,16 E Castle St,-76.98094035,42.8677738,http://www.lakedrumbrewing.com,Yes,Yes,No,No,Yes,No
+Lake George Beer Hub,New York,Queensbury,1043 State Route 9,-73.6858536,43.3436972,http://www.lakegeorgebrewingcompany.com,Yes,Yes,No,Yes,No,No
+Lake Placid Pub and Brewery,New York,Lake Placid,813 Mirror Lake Dr,-73.98108306,44.28340973,http://www.ubuale.com,Yes,Yes,Yes,Yes,No,No
+Lake St George Brewing Company,Maine,Liberty,4 Marshall Shore Rd,-69.3582049,44.3868477,http://www.lakestgeorgebrewing.com,Yes,Yes,No,Yes,Yes,No
 Lamplighter Brewing Co.,Massachusetts,Cambridge,284 Broadway,-71.0979339,42.3679737,http://www.lamplighterbrewing.com,Yes,Yes,No,Yes,No,Yes
-Lefty's Brewing Co,Massachusetts,Greenfield,301 Wells St,-72.60686067,42.60121604,http://www.leftysbrew.com,Yes,No,No,No,No,No
+Ledge Hill Brewing Co,New York,Westport,6700 Main St,-73.452543,44.188294,http://www.ledgehillbrewing.com/,Unknown,Yes,Unknown,Unknown,Yes,Unknown
+Lefty's Brewing Co,Massachusetts,Greenfield,301 Wells St,-72.60686067,42.60121604,http://www.leftysbrew.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Liars Bench Beer Company,New Hampshire,Portsmouth,459 Islington St Ste 4,-70.7686841457722,43.0724915,http://liarsbenchbeer.com,Yes,Yes,No,Yes,No,No
+Liberal Cup Public House and Brewery,Maine,Hallowell,115 Water St,-69.79013068,44.28681996,http://www.theliberalcup.com,No,Yes,No,No,No,No
+LIC Beer Project,New York,Long Island City,3928 23rd St,-73.942849,40.75063,http://licbeerproject.com,Yes,Yes,Yes,No,No,No
+LineSider Brewing,Rhode Island,East Greenwich,1485 S County Trl,-71.4977115,41.6562569,https://linesiderbrewing.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Liquid Riot Bottling Co.,Maine,Portland,4 Canal Plz Ste 1,-70.254852,43.6571735,http://www.novareresbiercafe.com,Yes,Yes,No,Yes,Yes,No
+Liquid Shoes Brewing,New York,Corning,26 E Market St,-77.05301289,42.14306479,http://www.liquidshoesbrewing.com,Yes,Yes,No,No,No,No
+Liquid State Brewing Company,New York,Ithaca,620 West Green Street,-76.5077547,42.43844312,http://www.liquidstatebrewing.com,Yes,Yes,No,Yes,Yes,No
+Lithermans Limited Brewery,New Hampshire,Concord,126 Hall St Ste B,-71.5233940939185,43.1832170110345,http://www.lithermans.beer,Yes,Yes,No,No,Yes,No
+Lithology Brewing,New York,Farmingdale,211 Main St Ste A,-73.4458589,40.7340675,http://Lithologybrewing.com,No,No,No,No,No,No
+Livingood's Restaurant & Brewery,New York,Peru,697 Bear Swamp Rd,-73.518542,44.576563,http://www.livingoodsresturant.com,Yes,Yes,No,No,No,No
+Loaded Question Brewing Co,New Hampshire,Portsmouth,909 Islington St Ste 12,-70.7749276853688,43.0679292,http://www.loadedquestionbrewing.com,Yes,Yes,No,No,No,No
+Local 315 Brewing Company,New York,Warners,3160 Warners Rd,-76.329676,43.085441,http://www.local315brewing.com,Yes,Yes,Yes,No,Yes,No
+Lock 32 Brewing Company,New York,Pittsford,10 Schoen Pl,-77.514256,43.09306,http://www.lock32brew.com,No,Yes,Yes,No,Yes,No
+Lock City Brewing,Connecticut,Stamford,54 Research Dr,-73.51955794,41.07705652,http://www.lockcitybrewing.com,No,Yes,Yes,Yes,No,No
+Lone Pine Brewing Company,Maine,Portland,219 Anderson St #4,-70.25577318,43.66965322,http://www.lonepinebrewery.com,Yes,Yes,Yes,Yes,No,Yes
+Long Ireland Brewing Co,New York,Riverhead,817 Pulaski St,-72.67411924,40.9199771,,No,Yes,No,No,No,No
+Long Live Beerworks,Rhode Island,Providence,40R Sprague St,-71.4260511,41.8093019,http://www.longlivebeerworks.com,Yes,Yes,No,No,No,No
+Long Lot Farm Brewery,New York,Chester,153 Johnson Rd,-74.2525480081292,41.3768984776995,http://www.longlotfarmbrewery.com,Yes,Yes,No,No,Yes,No
 Lookout Farm Brewing And Cider Co,Massachusetts,Natick,89 Pleasant St,-71.37096888,42.32235516,http://www.lookoutfarmbrewing.com,Yes,Yes,No,No,Yes,No
-Lord Hobo Brewing Co,Massachusetts,Woburn,5 Draper St,-71.12892319,42.47603755,http://lordhobobrewing.com,Yes,Yes,No,Yes,Yes,No
-Mayflower Brewing Co,Massachusetts,Plymouth,12 Resnik Rd,-70.71255496,41.94926024,http://www.mayflowerbrewing.com,Yes,Yes,Yes,No,Yes,Yes
-Medusa Brewing Company,Massachusetts,Hudson,111 Main St,-71.566681,42.3909986,http://www.medusabrewing.com,Yes,Yes,No,Yes,Yes,No
-Merrimack Ales,Massachusetts,Lowell,92 Bolt St,-71.300252,42.625366,http://www.merrimackales.com,No,No,No,No,No,No
-Mighty Squirrel,Massachusetts,Waltham,411 Waverley Oaks Rd,-71.2031453,42.3875142,http://www.mightysquirrel.com,Yes,Yes,Yes,Yes,No,No
-Moby Dick Brewing Co.,Massachusetts,New Bedford,16 S Water St,-70.92251325,41.63382101,http://www.mobydickbrewing.com,Yes,Yes,Yes,Yes,No,Yes
-Mystic Brewery,Massachusetts,Chelsea,174 Williams St,-71.0445104,42.3915659,,Yes,Yes,Yes,Yes,Yes,Yes
+Lord Hobo Brewing Co,Massachusetts,Woburn,5 Draper St,-71.12892319,42.47603755,http://lordhobobrewing.com,Yes,Yes,No,No,Yes,No
+Lost Kingdom Brewery / Firehouse Distillery,New York,Ovid,7160 Main St,-76.82281329,42.67724221,http://www.firehousedistillery.net,No,Yes,Yes,No,No,No
+Lost Nation Brewing,Vermont,Morrisville,87 Old Creamery Rd,-72.603333,44.568761,http://www.lostnationbrewing.com,Yes,Yes,Yes,No,No,No
+Lost Valley Brewing Co,Maine,Auburn,200 Lost Valley Rd,-70.280399,44.130958,,Yes,Yes,No,No,No,No
+"Lucky Hare Brewing Company, Inc.",New York,Hector,6085 Beckhorn Road,-76.8746440326821,42.5284425,http://www.luckyharebrewing.com,Yes,Yes,No,No,No,No
+Machias River Brewing Company,Maine,Machias,86 Main St,-67.45804551,44.71446257,,Yes,Yes,Yes,No,No,No
+Mad Jack Brewing Co / Van Dyck Restaurant & Lounge,New York,Schenectady,237 Union St,-73.94466273,42.81647276,http://www.madjackbrewing.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+"Madison Brewing Co, Pub and Restaurant",Vermont,Bennington,428 Main St,-73.1963588,42.8783819,http://www.madisonbrewingco.com,No,Yes,No,No,No,No
+Magic Hat Brewing Co/ North American Breweries,Vermont,South Burlington,5 Bartlett Bay Rd,-73.21616773,44.42808692,,Yes,Yes,No,No,No,Yes
+Mainely Brews Restaurant and Brewhouse,Maine,Waterville,1 Post Office Sq Ste 302,-69.6313844866599,44.55208395,http://www.mainelybrews.com,Yes,Yes,No,No,Yes,No
+Market Street Brewing Co,New York,Corning,63 W Market St # 65,-77.0571571,42.143984,http://www.936-beer.com,Yes,Yes,No,No,No,No
+Marsh Island Brewing Company,Maine,Orono,2 Main St,-68.671416,44.884496,http://www.marshislandbrewing.com,Yes,Yes,Unknown,Unknown,Unknown,Unknown
+Marshall Wharf Brewing Co,Maine,Belfast,40 Marshall Wharf,-69.0053643,44.4288636,http://www.marshallwharf.com,No,Yes,No,No,Yes,No
+Martha's Exchange Restaurant and Brewery,New Hampshire,Nashua,185 Main St,-71.46548181,42.7604446,http://www.marthas-exchange.com,Yes,Yes,No,No,No,No
+Mason's Brewing Company,Maine,Brewer,15 Hardy St,-68.76957092,44.79146596,http://www.masonsbrewingcompany.com,Yes,Yes,Yes,No,No,No
+Mast Landing Brewing Company,Maine,Westbrook,920 Main St,-70.36920486,43.676947,http://www.mastlandingbrewing.com,Yes,Yes,Yes,No,No,No
+Mayflower Brewing Co,Massachusetts,Plymouth,12 Resnik Rd,-70.71255496,41.94926024,http://www.mayflowerbrewing.com,Yes,Yes,Yes,No,No,Yes
+McNeills Brewery,Vermont,Brattleboro,90 Elliot St,-72.55933779,42.8518861,,No,Yes,No,Yes,Yes,No
+Mean Max Brew Works,New York,Glens Falls,193 Glen St # 2,-73.64451861,43.31016635,http://www.meanmaxbrew.com,Yes,Yes,No,No,No,No
+Medusa Brewing Company,Massachusetts,Hudson,111 Main St,-71.566681,42.3909986,http://www.medusabrewing.com,Yes,Yes,No,No,Yes,No
+Merrimack Ales,Massachusetts,Lowell,92 Bolt St,-71.300252,42.625366,http://www.merrimackales.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Middle Ages Brewing Co Ltd,New York,Syracuse,120 Wilkinson St Ste 3,-76.1615904,43.0510806,http://www.middleagesbrewing.com,Yes,Yes,No,No,Yes,Yes
+Mighty Squirrel,Massachusetts,Boston,411 Waverley Oaks Rd,-71.2031453,42.3875142,http://www.mightysquirrel.com,Yes,Yes,Yes,Yes,No,No
+Mikkeller Brewing NYC,New York,Flushing,12001 Roosevelt Ave,-73.8185205,40.7625834,http://mikkellernyc.com,No,Yes,No,Yes,No,No
+Miles Craft Ales @ Miles Wine Cellars,New York,Himrod,168 Randall Rd,-76.9208806708981,42.617299,http://www.mileswinecellars.com,Yes,Yes,Yes,No,No,Yes
+Mill House Brewing Company,New York,Poughkeepsie,289 Mill St,-73.926472,41.705077,http://www.millhousebrewing.com,Yes,Yes,No,No,No,No
+Millyard Brewing,New Hampshire,Nashua,25 E Otterson St,-71.45988189,42.7544214,http://www.millyardbrewery.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Moat Mountain Smoke House and Brewing Co,New Hampshire,North Conway,3378 White Mountain Highway,-71.14358535,44.06850015,http://www.moatmountain.com,Yes,Yes,No,No,No,No
+Moby Dick Brewing Co.,Massachusetts,New Bedford,16 S Water St,-70.92251325,41.63382101,http://www.mobydickbrewing.com,Yes,Yes,No,No,No,No
+Moderation Brewing,Maine,Brunswick,103 Maine St,-69.96566833,43.91631921,http://www.moderationbrewery.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Mohegan Cafe and Brewery,Rhode Island,Block Island,213 Water St,-69.3203843848059,43.7594708997297,https://monheganbrewing.com,No,Yes,No,No,No,No
+Monhegan Brewing Co.,Maine,Monhegan,1 Boody Lane,-69.320989,43.758828,http://www.monheganbrewing.com,Yes,Yes,Yes,No,No,No
+Moniker Brewery,Rhode Island,Providence,432 W Fountain St,-71.4239298,41.8183971,http://www.monikerbrewery.com,Unknown,Unknown,Unknown,Unknown,Yes,Unknown
+Montauk Brewing Co,New York,Montauk,62 S Erie Ave,-71.9440878,41.0366959,http://www.montaukbrewingco.com,Yes,Yes,No,No,No,Yes
+Moonlight Meadery/Hidden Moon Brewing,New Hampshire,Londonderry,23 Londonderry Rd Unit 17,-71.3421065517711,42.8771062,http://www.moonlightmeadery.com,No,Yes,No,No,No,Yes
+Moustache Brewing Co,New York,Riverhead,400 Hallett Ave Ste A,-72.6678719509004,40.92056465,http://www.moustachebrewing.com,Yes,Yes,No,No,No,Yes
+Mystic Brewery,Massachusetts,Chelsea,174 Williams St,-71.0445104,42.3915659,,Yes,Yes,Yes,Yes,No,Yes
 Naukabout Brewery,Massachusetts,Mashpee,13 Lake Ave,-70.48425901,41.64936239,http://www.naukabout.com,Yes,Yes,Yes,Yes,Yes,No
 Navigation Brewing Co,Massachusetts,Lowell,122 Western Ave,-71.32464812,42.64034997,http://www.navigationbrewing.com,Yes,Yes,Yes,No,Yes,No
-New City Brewery,Massachusetts,Easthampton,180 Pleasant St,-72.6593256,42.2744119,,Yes,Yes,Yes,No,Yes,No
-Newburyport Brewing Co,Massachusetts,Newburyport,4 New Pasture Rd,-70.88715582,42.8019577,http://www.nbptbrewing.com,Yes,Yes,Yes,Yes,Yes,Yes
-"Night Shift Brewing, Inc",Massachusetts,Everett,87 Santilli Hwy,-71.0677001,42.4059393,http://www.nightshiftbrewing.com,Yes,Yes,Yes,Yes,Yes,Yes
+New City Brewery,Massachusetts,Easthampton,180 Pleasant St Ste 2,-72.6593256,42.2744119,,Yes,Yes,No,No,Yes,No
+New England Brewing Co,Connecticut,Woodbridge,175 Amity Rd,-72.98046406,41.33858942,http://www.newenglandbrewing.com,Yes,Yes,Yes,No,Yes,No
+New Paltz Brewing Company,New York,Wawarsing,7174 Route 209,-74.3692379,41.7439779,http://www.pfalzerbrau.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+New York Beer Project,New York,Lockport,6933 S Transit Rd,-78.69614336,43.0897514,http://www.nybeerproject.com,Yes,Yes,Yes,Yes,Yes,No
+Newburgh Brewing Company,New York,Newburgh,88 S Colden St,-74.00811699,41.49659119,http://www.newburghbrewing.com,Yes,Yes,No,Yes,Yes,No
+Newburyport Brewing Co,Massachusetts,Newburyport,4 New Pasture Rd,-70.88715582,42.8019577,http://www.nbptbrewing.com,Yes,Yes,Yes,No,Yes,Yes
+Newport Craft Bewing & Distilling Co,Rhode Island,Newport,293 JT Connell Hwy,-71.3159781,41.5140254,https://newportcraft.com,Yes,Yes,No,Yes,No,Yes
+"Night Shift Brewing, Inc",Massachusetts,Everett,87 Santilli Hwy,-71.0677001,42.4059393,http://www.nightshiftbrewing.com,Yes,Yes,Yes,Yes,Yes,No
+No Worries Brewing Company,Connecticut,Hamden,2520 State St,-72.8928594,41.3499537,http://www.noworriesbeer.com,No,Yes,Yes,Yes,No,No
+Nod Hill Brewery,Connecticut,Ridgefield,137 Ethan Allen Hwy,-73.44388491,41.27316148,http://www.nodhillbrewery.com,Yes,Yes,No,No,Yes,No
+Nonesuch River Brewing,Maine,Scarborough,201 Gorham Rd,-70.3434522,43.6171529,http://www.nonesuchriverbrewing.com,Yes,Yes,No,No,No,No
+North Brewery,New York,Endicott,110 Washington Ave,-76.04827802,42.102192,http://www.northbrewery.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 Northampton Brewery,Massachusetts,Northampton,11 Brewster Ct,-72.6303406,42.317397,http://www.northamptonbrewery.com,Yes,Yes,No,No,Yes,No
+Northern Maine Brewing Co,Maine,Caribou,22 Main St,-67.99670995,46.81407692,,No,Yes,No,No,No,No
+"Northshire Brewery, Inc",Vermont,Bennington,108 County St,-73.20053877,42.88457164,http://www.northshirebrewery.com,No,No,No,No,No,No
+Norway Brewing Company,Maine,Norway,237 Main St,-70.5268344,44.1973621,http://www.norwaybrewing.com,Yes,Yes,No,Yes,No,No
 Notch Brewing,Massachusetts,Salem,283R Derby St,-70.8898969,42.52062541,http://www.notchbrewing.com,Yes,Yes,Yes,Yes,Yes,Yes
-Offshore Ale Co,Massachusetts,Oak Bluffs,30 Kennebec Ave,-70.55790959,41.45488324,http://www.offshoreale.com,Yes,Yes,No,No,Yes,Yes
-Old Colony Brewing,Massachusetts,Whitman,605 Bedford St,-70.948102,42.087448,http://www.oldcolonybrew.com,No,Yes,Yes,No,No,No
-Opa Opa Brewery,Massachusetts,Easthampton,19 Wemelco Way,-72.69191299,42.25467048,http://www.opaopasteakhousebrewery.com,Yes,Yes,No,No,No,No
+Oak Pond Brewing Co,Maine,Skowhegan,101 Oak Pond Rd,-69.5929975505517,44.75979975,http://www.oakpondbrewery.com,No,No,No,No,No,No
+Oddball Brewing,New Hampshire,Suncook,6 Glass St,-71.45239635,43.1308185,http://www.oddballbrewingnh.com,No,No,No,No,No,No
+OEC Brewing,Connecticut,Oxford,7 Fox Hollow Rd,-73.1199234,41.4684188,http://www.oecbrewing.com,Yes,Yes,No,No,No,No
+Offshore Ale Co,Massachusetts,Oak Bluffs,30 Kennebec Ave,-70.55790959,41.45488324,http://www.offshoreale.com,Yes,Yes,No,No,Yes,No
+Old Colony Brewing,Massachusetts,Whitman,605 Bedford St Unit 1,-70.948102,42.087448,http://www.oldcolonybrew.com,Unknown,Unknown,Yes,Unknown,Unknown,Unknown
+Olde Burnside Brewing Co.,Connecticut,East Hartford,776 Tolland St,-72.60022238,41.7850567,http://www.oldeburnsidebrewing.com,Yes,Yes,No,No,Yes,Yes
+One Love Brewery,New Hampshire,Lincoln,25 S Mountain Rd,-71.6697783,44.0421449,http://www.onelovebrewery.com,Yes,Yes,Yes,No,No,No
+Opa Opa Brewery,Massachusetts,Easthampton,19 Wemelco Way,-72.69191299,42.25467048,http://www.opaopasteakhousebrewery.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Orono Brewing Bangor Draught Room,Maine,Bangor,26 State St,-68.7428115,44.81159483,,Yes,Yes,No,Yes,No,No
+Orono Brewing Company,Maine,Orono,20 Main St,-68.669582,44.88754094,http://www.oronobrewing.com,Yes,Yes,No,Yes,No,No
+Otter Creek Brewing Co,Vermont,Middlebury,793 Exchange St,-73.17075772,44.03315644,http://www.ottercreekbrewing.com,Yes,Yes,Yes,No,No,Yes
+Outer Light Brewing Company,Connecticut,Groton,266 Bridge St Ste 1,-72.0743416,41.3608066,http://www.outerlightbrewing.com,Yes,Yes,Yes,Yes,No,No
 Outlook Farm Brewery,Massachusetts,Westhampton,136 Main Rd,-72.772262,42.285973,http://www.outlookfarm.com,No,Yes,No,No,Yes,No
-Owen OLearys Restaurant and Brewery,Massachusetts,Westborough,17 Connector Rd,-71.58591979,42.28996559,http://www.owenolearys.com,Yes,Yes,No,Yes,Yes,No
-Percival Brewing Company,Massachusetts,Norwood,83 Morse St,-71.2072323,42.17226305,http://www.percivalbeercompany.com,Yes,Yes,Yes,Yes,Yes,No
-Plymouth Beer Company / Dirty Water Distillery,Massachusetts,Plymouth,10 Water St,-70.6620267,41.9549491,http://www.plymouthbeer.rocks,No,No,Yes,No,No,Yes
-Remnant Brewing,Massachusetts,Somerville,2 Bow Market Way,-71.0982412,42.3810249,http://www.remnantsomerville.com,Yes,No,No,No,No,No
+Overshores Brewing Co,Connecticut,East Haven,250 Bradley St,-72.87397563,41.29004301,http://www.overshores.com,No,Yes,No,No,Yes,Yes
+Owen OLearys Restaurant and Brewery,Massachusetts,Westborough,17 Connector Rd,-71.58591979,42.28996559,http://www.owenolearys.com,Yes,Yes,No,Yes,No,No
+Oxbow Blending & Bottling,Maine,Portland,49 Washington Ave,-70.2513253,43.6649414,,Yes,Yes,No,No,Yes,No
+Oxbow Brewing Co,Maine,Newcastle,274 Jones Woods Rd,-69.5639953,44.0830789,http://www.oxbowbeer.com,Yes,Yes,Yes,Yes,Yes,Yes
+Oyster Bay Brewing,New York,Oyster Bay,36 Audrey Ave,-73.53140323,40.87304967,http://www.oysterbaybrewing.com,No,Yes,Yes,Yes,No,No
+Peacemaker Brewing Company,New York,Canandaigua,20 Pleasant St,-77.27866055,42.88851165,http://www.peacemakerbrewing.com,No,Yes,No,No,Yes,No
+Pearl Street Grill and Brewery,New York,Buffalo,76 Pearl St,-78.87722544,42.88105759,http://www.pearlstreetgrill.com,Yes,Yes,No,Yes,No,No
+Peekskill Brewing Co,New York,Peekskill,47 S Water St # 53,-73.9292934,41.2867311,http://www.peekskillbrewery.com,Yes,Yes,No,No,Yes,No
+Penobscot Bay Brewery,Maine,Winterport,279 South Main Street,-68.847883,44.634187,http://www.winterportwinery.com/brewery.asp,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Percival Brewing Company,Massachusetts,Norwood,83 Morse St,-71.2072323,42.17226305,http://www.percivalbeercompany.com,Unknown,Unknown,Yes,Yes,Unknown,Unknown
+Pipe Dream Brewing,New Hampshire,Londonderry,49 Harvey Rd Unit 4,-71.42074865,42.90828525,http://www.pipedreambrewingnh.com,Yes,Yes,Yes,Yes,Yes,No
+Plan Bee Farm Brewery,New York,Poughkeepsie,115 Underhill Rd,-73.88591274,41.71721405,http://www.planbeefarmbrewery.com,Yes,Unknown,Yes,Unknown,Yes,Unknown
+Plattsburgh Brewing Co,New York,Plattsburgh,411 Route 3,-73.4887449961444,44.695891,http://www.plattsburghbrewingco.com,No,Yes,No,No,No,No
+Plymouth Beer Company / Dirty Water Distillery,Massachusetts,Plymouth,10 Water St,-70.6620267,41.9549491,http://www.plymouthbeer.rocks,No,No,No,No,No,No
+Po'Boy Brewing,New York,Port Jefferson Station,200 Wilson St Unit E3,-73.0571850230039,40.9335505,http://www.poboybrewery.com,Yes,Yes,No,No,Yes,Yes
+Polyculture Brewing Company,New Hampshire,Croydon,3 Camel Hump Rd,-72.18685389,43.41054689,http://www.polyculturebrewing.com,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+Powder Hollow Brewery,Connecticut,Enfield,504 Hazard Ave,-72.5778709,41.9896523,http://www.powderhollowbrewery.com,No,Yes,No,Yes,Yes,No
+Prison City Brewing,New York,Auburn,28 State St,-76.5682427,42.9317672,http://www.prisoncitybrewing.com,Yes,Yes,Yes,No,No,No
+Proclamation Ale Company,Rhode Island,Warwick,298 Kilvert St,-71.445959,41.730117,http://www.proclamationaleco.com,Yes,Yes,Yes,Yes,No,No
+Prohibition Pig,Vermont,Waterbury,23 S Main St Ste 1,-72.746168,44.3285762,http://www.prohibitionpig.com,Yes,Yes,No,No,No,No
+Providence Brewing Company,Rhode Island,Providence,10 Sims Ave Unit 110,-71.4335016,41.8270445,https://providencebrewingcompany.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+"Queen City Brewery, LLC",Vermont,Burlington,703 Pine St,-73.21483275,44.4594977,http://www.queencitybrewery.com,Yes,Yes,Yes,No,No,Yes
+Racing City Brewing Company,New York,Saratoga Springs,250 Excelsior Ave,-73.7769944,43.0888891,http://www.racingcitybrewingcompany.com,Yes,Yes,No,No,Yes,No
+Ragged Island Brewing Company,Rhode Island,Portsmouth,54 Bristol Ferry Rd,-71.25695,41.616314,http://www.raggedislandbrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Railhead Brewing Company,New York,Hornell,40 Park Dr,-77.654913944431,42.3162725,http://www.railheadbrewing.com,Yes,Yes,No,No,Yes,No
+Randolph Beer Dumbo,New York,Brooklyn,77 Sands St,-73.987503,40.70005509,http://www.randolphbeer.com,Yes,Yes,No,Yes,Yes,No
+Raquette River Brewing,New York,Tupper Lake,11 Balsam St # 2,-74.48652145,44.24347376,http://www.raquetteriverbrewing.com,Yes,Yes,Yes,No,Yes,No
+Rare Form Brewing,New York,Troy,90 Congress St,-73.6899808,42.7286018,http://www.rareformbrewing.com,No,Yes,No,Yes,No,No
+Red Barn Brewing,Vermont,Danville,2170 Oneida Rd,-72.17748576,44.39460429,http://www.redbarnbrewingvt.com,Yes,Yes,No,No,No,No
+Red Hawk Brewing,New York,Syracuse,4504 Bussey Rd,-76.2324966,42.9901802,http://www.redhawkbrewing.com,No,Yes,Yes,Yes,No,No
+Red Shed Brewing Company,New York,Cherry Valley,817 Butter Bowl Rd,-74.8083417,42.7571184,http://www.redshedbrewing.com,Yes,Yes,No,No,Yes,No
+Rek-Lis Brewing Company,New Hampshire,Bethlehem,2085 Main Street,-71.687376,44.28042825,http://tbd,Yes,Yes,Yes,Yes,Yes,No
+Relic Brewing,Connecticut,Plainville,95 Whiting St Unit B,-72.8676018,41.6667735,,No,Yes,No,Yes,No,Yes
+Remnant Brewing,Massachusetts,Somerville,2 Bow Market Way,-71.0982412,42.3810249,http://www.remnantsomerville.com,Yes,Unknown,Unknown,Unknown,Unknown,Unknown
+Resurgence Brewing Company,New York,Buffalo,1250 Niagara St,-78.89959956,42.91822725,http://www.resurgencebrewing.com,Yes,Yes,Yes,Yes,No,Yes
+Revival Brewing,Rhode Island,Cranston,505 Atwood Ave,-71.47169613,41.78983825,http://www.revivalbrewing.com,Yes,Yes,Yes,Yes,No,Yes
+RG Brewery / Five Sons Winery,New York,Brockport,1360 W Sweden Rd,-77.9850142,43.150645,http://www.rgbrewery.com,Yes,Yes,Yes,No,Yes,No
+Rising Tide Brewing Co,Maine,Portland,103 Fox St,-70.2570974,43.6655545,http://www.risingtidebrewing.com,Yes,Yes,Yes,No,No,No
+River Roost Brewery,Vermont,White River Junction,230 S Main St,-72.31821547,43.64560685,http://www.riverroostbrewery.com,No,Yes,No,No,No,No
 River Styx Brewing,Massachusetts,Fitchburg,166 Boulder Dr Ste 112,-71.7946112,42.5817291,http://www.riverstyxbrewing.com,Yes,Yes,Yes,Yes,Yes,Yes
+Roc Brewing Co,New York,Rochester,56 S Union St,-77.59793317,43.15337067,http://www.rocbrewingco.com,Yes,Yes,No,Yes,No,Yes
+Rock Art Brewery,Vermont,Morrisville,632 Laporte Rd,-72.6088371,44.5580555,http://www.rockartbrewery.com,No,Yes,No,No,No,Yes
+Rock Harbor Brewing Co.,Maine,Rockland,5 Payne Ave,-69.127326,44.100544,http://www.rockharborbrewing.com,Yes,Yes,No,No,Yes,No
+Rock Harbor Pub & Brewery,Maine,Rockland,416 Main St,-69.10907557,44.1049557,,Yes,Yes,No,No,Yes,No
+Rockaway Brewing Company,New York,Long Island City,4601 5th St,-73.9573397,40.7404088,http://www.rockawaybrewco.com,Yes,Yes,No,No,No,Yes
+Rockingham Brewing Company,New Hampshire,Derry,1 Corporate Park Dr Unit 1,-71.3340601,42.88684485,http://www.rockinghambrewing.com,No,No,No,No,No,No
+Rohrbach Brewing Company,New York,Rochester,97 Railroad St,-77.586694,43.163275,http://www.rohrbachs.com,Yes,Yes,No,Yes,Yes,Yes
+Rohrbach's Railroad St Brewery,New York,Rochester,97 Railroad St,-77.586694,43.163275,http://www.rohrbachs.com,Unknown,Yes,Unknown,Yes,Unknown,Unknown
+Roots Brewing Company,New York,Oneonta,175 Main St,-75.0630461,42.45318,http://www.rootsbrewingcompany.com,No,Yes,No,Yes,No,No
+Roscoe Brewing Company,New York,Roscoe,145 Rockland Rd,-74.9127886,41.9461267,http://www.roscoebeercompany.com,Yes,Yes,Yes,No,Yes,No
+R.S. Taylor & Sons Brewery,New York,Salem,3602 County Route 30,-73.360912,43.175335,http://www.rstaylorbrewing.com,Unknown,Yes,Unknown,Yes,Yes,Unknown
+Run of the Mill Public House & Brewery,Maine,Saco,100 Main St,-70.442601,43.501374,http://www.therunofthemill.net,Yes,Yes,Yes,No,Yes,No
+Rushing Duck Brewing Co,New York,Chester,1 Battiato Ln,-74.270801,41.362221,http://www.rushingduck.com,Yes,Yes,No,Yes,No,No
+Rusty Nickel Brewing Co.,New York,Buffalo,4350 Seneca St,-78.851031,42.876243,http://www.rustynickelbrewing.com,Yes,Yes,Yes,Yes,Yes,No
+Sager Beer Works,New York,Rochester,,-77.5458678247896,43.1100257,http://www.sagerbeerworks.com,Yes,Yes,No,Yes,Yes,No
+Sahm Brewing Company,New York,Syracuse,203 S Salina St,-76.15209318,43.04945059,http://www.facebook.com/SahmBrewCo/,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Saint J Brewery,Vermont,Saint Johnsbury,2002 Memorial Dr,-72.01506898,44.45918219,http://www.saintjbrewery.com,No,Yes,No,No,No,No
+Saint James Brewery,New York,Holbrook,929 Lincoln Ave Ste 11,-73.0857021,40.7996279,http://www.saintjamesbrewery.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+"Salt Point Brewing Co, LLC",New York,Lansing,2075 East Shore Dr,-76.50592053,42.53689005,,Yes,Yes,No,No,No,No
+Sand City Brewing Co.,New York,Northport,60 Main St,-73.3508587,40.8998983,http://www.sandcitybeer.com,No,Yes,Yes,No,No,No
+Sato Brewpub,New York,Buffalo,110 Pearl St,-78.87693971,42.88186146,http://www.satobrewpub.com,Yes,Yes,No,No,Yes,Yes
+Scale House Brewery & Pub,New York,Ithaca,23 Cinema Dr Ste C,-76.4776069,42.4795009,http://www.scalehousebrewpub.com,Yes,Yes,Yes,No,No,No
+Schilling Beer Co,New Hampshire,Littleton,18 Mill St,-71.77281065,44.30592045,http://www.schillingbeer.com,Yes,Yes,No,No,No,No
+Sea Dog Brewing,Maine,Camden,1 Main St,-69.064576,44.209809,http://www.seadogbrewing.com,Yes,Yes,Yes,No,No,No
+Sea Dog Brewing Co - Bangor,Maine,Bangor,26 Front St,-68.770233,44.7966948,http://www.seadogbrewing.com,Yes,Yes,Yes,No,No,No
+Sea Dog Brewing Co,New Hampshire,Conway,1976 White Mountain Hwy #9,-71.1217669,44.0333227,,Yes,Yes,Yes,No,Yes,No
+Sea Dog Brewing Co - S. Portland,Maine,S Portland,125 Western Ave,-70.31903067,43.63519195,http://www.seadogbrewing.com,Yes,Yes,Yes,No,Yes,No
+Sebago Brewing Co,Maine,Gorham,48 Sanford Dr,-70.3968065,43.67951645,,Yes,Yes,No,No,No,Yes
+Sebago Brewing Co,Maine,Gorham,616 Main St,-70.39706723,43.68956533,http://www.sebagobrewing.com,Yes,Yes,No,No,No,Yes
 Second Wind Brewing Company,Massachusetts,Plymouth,7 Howland St,-70.6665478,41.9585551,http://www.secondwindbrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Shire Breu Hous,Massachusetts,Dalton,63 Flansburg Ave,-73.1730985,42.4745867,http://www.shire.beer,Yes,Yes,No,No,Yes,Yes
-Skyroc Brewery,Massachusetts,Attleboro,11 Riverbank Rd,-71.28788917,41.94462967,http://www.skyrocbrewery.com,No,Yes,Yes,No,No,No
+Seneca Lake Brewing Company,New York,Dundee,5430 NY-14,-76.9110504,42.5398961,http://www.senecalakebrewing.com,Yes,Yes,No,No,Yes,Yes
+Seneca Lodge Craft Brewing At Seneca Lodge,New York,Watkins Glen,3600 Walnut Rd,-76.873392,42.369461,http://www.senecalodge.com,No,Yes,No,No,No,No
+Seneca Street Brew Pub,New York,Manlius,315 E Seneca St Ste 1,-75.9758841,43.0023157,http://www.senecastreetbrewpub.com,Yes,Yes,No,No,No,No
+"Shaidzon Beer Company, LLC",Rhode Island,West Kingston,141 Fairgrounds Rd.,-71.56763232,41.48127985,http://www.shaidzonbeerco.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Shebeen Brewing Company,Connecticut,Wolcott,1 Wolcott Rd,-73.000062,41.575855,http://www.shebeenbrewing.com,Yes,Yes,No,Yes,No,Yes
+Shipyard Brewing Co,Maine,Portland,86 Newbury St,-70.24862314,43.6615851,http://www.shipyard.com,Yes,Yes,No,Yes,No,Yes
+Shire Breu Hous,Massachusetts,Dalton,63 Flansburg Ave,-73.1730985,42.4745867,http://www.shire.beer,No,Yes,No,Yes,Yes,No
+Silver Lake Brewing Project,New York,Perry,14 Borden Ave,-78.00159923,42.71795128,http://silverlakebrewingproject.com,Yes,Yes,Yes,Yes,No,No
+Simple Roots Brewing Co,Vermont,Burlington,1127 North Ave Ste 8,-73.2465388,44.5071921,,No,Yes,No,No,No,No
+Sing Sing Kill Brewery,New York,Ossining,75 Spring St,-73.86373076,41.15860835,http://www.singsingkillbrewery.com,Unknown,Yes,Unknown,Unknown,Yes,Unknown
+Six Harbors Brewing Company,New York,Huntington,243 New York Ave.,-73.4253168,40.8749628,,Yes,Yes,Yes,No,No,No
+Sixpoint Brewery,New York,Brooklyn,40 Van Dyke St,-74.01191761,40.67397255,http://www.sixpoint.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Skyroc Brewery,Massachusetts,Attleboro,11 Riverbank Rd,-71.28788917,41.94462967,http://www.skyrocbrewery.com,No,Yes,No,No,No,No
+Sloop Brewing,New York,Elizaville,1065 County Route 19,-73.797148,42.084393,http://www.sloopbrewing.com,Yes,Yes,Yes,No,Yes,No
+Smug Brewing Company,Rhode Island,Pawtucket,100 Carver St,-71.3987677,41.8598033,https://smugbrewing.com,No,No,No,No,No,No
+Smuttynose Brewing Co,New Hampshire,Hampton,105 Towle Farm Rd,-70.85354155,42.94551535,http://www.smuttynose.com,Yes,Yes,Yes,No,Yes,Yes
+SoMe Brewing Co,Maine,York,1 York St Ste 3,-70.6656062,43.1501552,http://somebrewingco.com,Yes,Yes,Yes,Yes,No,No
+Sons of Liberty Beer & Spirits Co.,Rhode Island,Wakefield,1425 Kingstown Rd,-71.50525999,41.4545347,http://www.solspirits.com,Yes,Yes,No,Yes,Yes,Yes
+Southampton Publick House,New York,Southampton,62 Jobs Ln,-72.3914508,40.883157,http://www.publick.com,Yes,Yes,Yes,No,No,No
+Southern Tier Brewing Co,New York,Lakewood,2072 Stoneman Cir,-79.3493841,42.0888564,http://www.southerntierbrewing.com,Yes,Yes,No,No,Yes,Yes
 Spencer Brewery,Massachusetts,Spencer,167 N Spencer Rd,-72.0133159,42.2976331,http://www.spencerbrewery.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Start Line Brewing Company,Massachusetts,Hopkinton,151R Hayden Rowe St,-71.51323676,42.21031634,http://www.startlinebrewing.com,Yes,Yes,No,Yes,No,Yes
-Stellwagen Beer Company,Massachusetts,Marshfield,100 Enterprise Drive,-70.7480924084496,42.10365295,http://www.stellwagenbeer.com,Yes,Yes,Yes,No,No,No
-Stone Cow Brewery,Massachusetts,Barre,500 West St,-72.123984,42.424354,,Yes,Yes,Yes,No,Yes,No
-The Tap Brewing Company,Massachusetts,Haverhill,100 Washington St,-71.084935,42.7728879,http://www.tapbrewingcompany.com,Yes,Yes,Yes,No,Yes,Yes
-Timberyard Brewing Co.,Massachusetts,East Brookfield,555 East Main St,-72.029058474949,42.23107415,http://timberyardbrewing.com,Yes,Yes,No,Yes,Yes,No
+Stark Brewing Company,New Hampshire,Manchester,500 North Commercial St,-71.4676557,42.9945554,http://www.starkbrewingcompany.com,No,Yes,No,No,Yes,Yes
+Start Line Brewing Company,Massachusetts,Hopkinton,151R Hayden Rowe St,-71.51323676,42.21031634,http://www.startlinebrewing.com,Yes,Yes,No,Yes,No,No
+Staten Island Beer Company,New York,Staten Island,20 Kinsey Pl,-74.17033729,40.62874743,http://www.sibeerco.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Steady Habit Brewing Company,Connecticut,Haddam,95 Bridge Rd,-72.4724214,41.44831,,Yes,Yes,No,No,Yes,No
+Steuben Brewing Company,New York,Hammondsport,10286 Judson Rd,-77.1870816316486,42.5015308,http://www.steubenbrewingcompany.com,Yes,Yes,Yes,Yes,Yes,No
+Still HIll Brewery LLC,Connecticut,Rocky Hill,1275 Cromwell Ave Ste C8 Unit 9,-72.6761742,41.6354553,http://www.stillhillbrewery.com,Yes,Yes,No,No,Yes,No
+Stone Corral Brewery,Vermont,Richmond,83 Huntington Rd Unit 1,-73.0015174659288,44.398888,http://stonecorral.com,Yes,Yes,No,No,Yes,No
+Stone Cow Brewery,Massachusetts,Barre,500 West St (Route 122),-72.123984,42.424354,,Yes,Yes,No,No,Yes,No
+Stoneface Brewing Co,New Hampshire,Newington,436 Shattuck Way Ste 6,-70.818689,43.1150788,http://www.stonefacebrewing.com,Yes,Yes,No,Yes,No,No
+Stony Creek Brewery,Connecticut,Branford,5 Indian Neck Ave,-72.81330366,41.27475355,http://www.stonycreekbeer.com,Yes,Yes,No,Yes,Yes,Yes
+Strangebird Beer,New York,Rochester,62 Marshall Street,-77.601928,43.1512774545221,https://www.strangebirdbeer.com,Yes,Yes,Unknown,Unknown,Unknown,Unknown
+Strong Brewing,Maine,Sedgwick,7 Rope Ferry Rd,-68.661456,44.3806722,http://strongbrewing.com/,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+Strong Rope Brewery,New York,Brooklyn,574A President St,-73.9840898,40.6769023,http://www.strongropebrewery.com,No,Yes,No,No,Yes,Yes
+Stubborn Beauty Brewing,Connecticut,Middletown,180 Johnson St,-72.65990742,41.57233253,http://www.stubbornbeauty.com,Yes,Yes,Yes,Yes,No,No
+Sunday River Brewing Company,Maine,Bethel,29 Sunday River Rd,-70.8096128,44.4483482,http://www.sundayriverbrewingcompany.com,Yes,Yes,No,No,No,No
+Swiftwater Brewing Company,New York,Rochester,378 Mount Hope Ave,-77.61227748,43.14230324,http://www.swiftwaterbrewing.com,Yes,Yes,No,No,No,No
+Switchback Brewing Co,Vermont,Burlington,160 Flynn Ave,-73.22068075,44.45680085,http://www.switchbackvt.com,Yes,Yes,Yes,Yes,No,Yes
+Syracuse Suds Factory,New York,Syracuse,320 S Clinton St,-76.153679,43.04846902,http://www.sudsfactory.com,No,Yes,No,No,Yes,Yes
+Taproot Brewing Co / Newport Vineyards,Rhode Island,Middletown,909 E Main Rd,-71.2726634,41.5293214,https://www.taprootbeer.com,Yes,Yes,No,No,No,No
+Ten Bends Beer,Vermont,Hyde Park,590 E Main St,-72.60515022,44.58894694,http://wwwtenbendsbeer.com,No,No,No,No,No,No
+The Brewery of Broken Dreams,New York,Hammondsport,8319 Pleasant Valley Rd,-77.2453798,42.4046263,http://www.thebreweryofbrokendreams.com,No,Yes,No,No,No,No
+The Bronx Brewery,New York,Bronx,856 E 136th St,-73.91064054,40.801861,http://www.thebronxbrewery.com,Yes,Yes,No,Yes,Yes,Yes
+The Crossings Restaurant and Brewpub,Connecticut,Putnam,45 Main St,-71.9081681,41.9144568,http://www.thecrossingsbrewpub.com,Yes,Yes,No,No,No,No
+The FarmHouse Brewery,New York,Owego,14 George St,-76.26950941,42.11123746,http://www.thefarmhousebrewery.com,Yes,Yes,No,No,No,No
+The Guild Brewing Co - Pawtucket Beer Hall,Rhode Island,Pawtucket,461 Main St,-71.3890045,41.8767586,https://www.theguildpawtucket.com,Yes,Yes,Yes,Yes,No,No
+The Guild Brewing Co - Warren,Rhode Island,Warren,99 Water St Ste2,-71.2873101269912,41.7339995171256,https://www.theguildwarren.com,Unknown,Yes,Unknown,Unknown,Unknown,Unknown
+The Lone Wolfe Brewing Co.,New Hampshire,Wolfeboro,36 Mill St,-71.21503305,43.58572415,http://www.thelonewolfe.com,Yes,Yes,No,Yes,Yes,No
+The Lost Borough Brewing Company,New York,Rochester,543 Atlantic Ave,-77.56856467,43.15638738,http://www.lostboroughbrewing.com,Yes,Yes,No,No,No,Yes
+The Outlaw Brewing Company,New Hampshire,Winchester,215 Scotland Rd,-72.35620045,42.75012519,http://Www.theoutlawbrewingcompany.com,Yes,Yes,Unknown,Unknown,Unknown,Unknown
+The Tap Brewing Company,Massachusetts,Haverhill,100 Washington St,-71.084935,42.7728879,http://www.tapbrewingcompany.com,Yes,Yes,No,No,No,No
+These Guys Brewing Company,Connecticut,Norwich,78 Franklin St,-72.07474352,41.52487646,http://www.theseguysbrewig.com,No,Yes,No,No,No,No
+Thimble Island Brewery,Connecticut,Branford,16 Business Park Dr,-72.77202768,41.29695786,http://www.thimbleislandbrewery.com,Yes,Yes,No,Yes,No,Yes
+Thin Man Brewery,New York,Buffalo,486 Elmwood Ave,-78.87720285,42.91037815,http://www.thinmanbrewery.com,Yes,Yes,No,No,Yes,No
+Thomas Hooker Brewing Co LLC,Connecticut,Bloomfield,16 Tobey Rd,-72.7115431,41.8089235,http://www.hookerbeer.com,Yes,Yes,Yes,No,No,Yes
+Three Heads Brewing,New York,Rochester,186 Atlantic Ave,-77.58034655,43.15611755,http://www.threeheadsbrewing.com,Yes,Yes,No,Yes,Yes,No
+Threes Brewing,New York,Brooklyn,333 Douglass St,-73.9821529,40.6798144,http://www.threesbrewing.com,Yes,Yes,No,No,No,No
+Throwback Brewery,New Hampshire,North Hampton,7 Hobbs Rd,-70.8342759058472,42.98109735,http://www.throwbackbrewery.com,Yes,Yes,Yes,No,Yes,No
+Tilted Barn Brewery,Rhode Island,Exeter,1 Helmsley Pl,-71.523075,41.554186,http://www.tiltedbarnbrewery.com,Yes,Yes,Yes,No,No,No
+Tim's Pumpkin Patch,New York,Marietta,2901 Rose Hill Rd,-76.34398,42.911678,http://www.timspumpkinpatch.com,No,Yes,No,No,No,No
 Tin Bridge Brewing,Massachusetts,Westfield,487 E Main St,-72.71967336,42.11268502,http://www.tinbridgebrewing.com,Yes,Yes,No,Yes,Yes,No
-Tree House Brewery,Massachusetts,Charlton,129 Sturbridge Rd,-72.0125532,42.1366948,http://www.treehousebrew.com,Yes,Yes,Yes,Yes,Yes,No
+Toast Ale,New York,New York,601 W 26th St Ste 325-291,-74.0063215,40.7513331,http://www.toastale.com/us,No,Yes,No,No,No,No
+Transmitter Brewing,New York,Long Island City,5302 11th St,-73.9511062,40.7431826,http://www.transmitterbrew.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Tree House Brewery,Massachusetts,Charlton,129 Sturbridge Rd,-72.0125532,42.1366948,http://www.treehousebrew.com,Yes,Yes,Yes,No,Yes,No
+Tributary Brewing Company,Maine,Kittery,10 Shapleigh Rd,-70.736801,43.090863,http://www.tributarybrewingcompany.com,Yes,Yes,Yes,No,Yes,No
 Trillium Brewing,Massachusetts,Canton,110 Shawmut Rd,-71.1527702,42.1847202,http://www.trilliumbrewing.com,Yes,Yes,Yes,No,Yes,No
-True North Ale Company,Massachusetts,Ipswich,116 County Rd,-70.837236,42.669841,http://www.TrueNorthAles.com,Yes,Yes,Yes,Yes,Yes,No
-True West Brewing Company,Massachusetts,Acton,525 Massachusetts Ave,-71.4708368,42.4762337,http://www.brewtruewest.com,Yes,Yes,Yes,Yes,No,No
-Turtle Swamp Brewing,Massachusetts,Jamaica Plain,3377 Washington St,-71.1123668,42.3014592,http://www.turtleswampbrewing.com,Yes,Yes,No,Yes,Yes,Yes
-Untold Brewing,Massachusetts,Scituate,6 Old Country Way,-70.74750286,42.18080776,http://www.untoldbrewing.com,Yes,Yes,No,Yes,No,Yes
-Vanished Valley Brewing Company,Massachusetts,Ludlow,782 Center Street,-72.47021639,42.18292741,http://www.vanishedvalley.com,Yes,Yes,No,Yes,Yes,Yes
-Vitamin Sea Brewing,Massachusetts,Weymouth,30 Moore Road,-70.929302,42.1925207,,Yes,Yes,Yes,No,No,No
+Trinity Brewhouse,Rhode Island,Providence,186 Fountain St,-71.4168238,41.8223638,http://www.trinitybrewhouse.com,No,Yes,No,No,No,No
+Triphammer Bierwerks,New York,Fairport,111 Parce Ave Ste 3A-1,-77.444237030359,43.1053137,http://www.triphammerbierwerks.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+True North Ale Company,Massachusetts,Ipswich,116 County Rd,-70.837236,42.669841,http://www.TrueNorthAles.com,Yes,Yes,No,No,No,No
+True West Brewing Company,Massachusetts,Acton,525 Massachusetts Ave Ste 107,-71.4708368,42.4762337,http://www.brewtruewest.com,Yes,Yes,No,Yes,No,No
+Tuckerman Brewing Co,New Hampshire,Conway,66 Hobbs St,-71.12983196,43.97582858,http://www.tuckermanbrewing.com,Yes,Yes,Yes,Yes,Yes,Yes
+Tumbledown Brewing LLC,Maine,Farmington,805 Farmington Falls Rd Ste 7,-70.0943418,44.6355201,http://www.tumbledownbrewing.com,Yes,No,No,No,No,No
+Turtle Swamp Brewing,Massachusetts,Jamaica Plain,3377 Washington St,-71.1123668,42.3014592,http://www.turtleswampbrewing.com,Yes,Yes,No,Yes,No,Yes
+Twisted Rail Brewing Company,New York,Canandaigua,169 Lakeshore Dr,-77.262436,42.87507,http://www.twistedrailbrewing.com,Yes,Yes,No,No,Yes,Yes
+Two Roads Brewing Co,Connecticut,Stratford,1700 Stratford Ave,-73.151247,41.184374,http://www.tworoadsbrewing.com,Yes,Yes,No,Yes,No,Yes
+Union Station Brewery,Rhode Island,Providence,36 Exchange Ter Ste 2,-71.414009,41.825558,https://www.unionstationpvd.com,Yes,Yes,No,No,Yes,No
+Untold Brewing,Massachusetts,Scituate,6 Old Country Way,-70.74750286,42.18080776,http://www.untoldbrewing.com,Yes,Unknown,Unknown,Yes,Unknown,Unknown
+Upstate Brewing Co,New York,Elmira,3028 Lake Rd,-76.8117925453472,42.133296,http://www.upstatebrewing.com,Yes,Yes,No,No,No,No
+Vanished Valley Brewing Company,Massachusetts,Ludlow,782 Center Street,-72.47021639,42.18292741,http://www.vanishedvalley.com,Yes,Yes,No,Yes,No,No
+Veracious Brewing Company,Connecticut,Monroe,246 Main St,-73.2561968,41.3103344,http://www.veraciousbrewing.com,No,Yes,Yes,Yes,Yes,Yes
+Vermont Pub and Brewery,Vermont,Burlington,144 College St,-73.2143746,44.4772683,http://www.vermontbrewery.com,Yes,Yes,Yes,No,Yes,No
+Von Trapp Brewing,Vermont,Stowe,1333 Luce Hill Rd,-72.791432,44.470714,http://www.trappfamily.com,Yes,Yes,No,No,Yes,Yes
 Wachusett Brewing Co,Massachusetts,Westminster,175 State Rd E,-71.87294016,42.55783542,http://www.wachusettbrew.com,Yes,Yes,Yes,Yes,Yes,Yes
-Wandering Star Brewing Co,Massachusetts,Pittsfield,11 Gifford St,-73.21202303,42.45706449,http://www.wanderingstarbrewing.com,Yes,Yes,Yes,Yes,Yes,No
+Wandering Star Brewing Co,Massachusetts,Pittsfield,11 Gifford St,-73.21202303,42.45706449,http://www.wanderingstarbrewing.com,No,Yes,Yes,Yes,No,No
+WeBe Brewing Company,New York,Geneva,796 Pre-Emption Road,-77.01110326,42.86463714,http://www.WeBeBrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 Westfield River Brewing Co,Massachusetts,Southwick,707 College Hwy,-72.765248,42.062268,http://www.westfieldriverbrewing.com,Yes,Yes,No,No,Yes,No
+Westtown Brew Works,New York,Westtown,236 Schefflers Rd,-74.53707955,41.31431295,http://www.westtownbrewworks.com,Yes,Yes,Yes,No,Yes,No
+Whalers Brewing Company,Rhode Island,South Kingstown,1174 Kingstown Rd,-71.49706731,41.4506997,https://whalers.com,Yes,Yes,Yes,Yes,Yes,No
+Whetstone Craft Beers @ Whetstone Station,Vermont,Brattleboro,36 Bridge St,-72.55627012,42.85164595,http://www.whetstonestation.com,Yes,Yes,No,No,No,No
+White Birch Brewing,New Hampshire,Hooksett,1339 Hooksett Rd,-71.44114457,43.05712534,http://www.whitebirchbrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 Widowmaker Brewing,Massachusetts,Braintree,220 Wood Rd,-71.0369456201276,42.2205924,http://www.widowmakerbrew.wordpress.com,Yes,Yes,Yes,Yes,Yes,No
-Winter Hill Brewing Company,Massachusetts,Somerville,328 Broadway,-71.0939775805177,42.39265595,http://www.winterhillbrewing.com,Yes,Yes,Yes,No,No,No
-Wormtown Brewery,Massachusetts,Worcester,72 Shrewsbury St,-71.7912262,42.2634992,http://www.wormtownbrewery.com,Yes,Yes,No,Yes,Yes,No
+Wild East Brewing Co.,New York,Brooklyn,,-73.9966803,40.6038604,http://www.wildeastbrewing.com,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Willimantic Brewing Co and Main Street Cafe,Connecticut,Willimantic,967 Main St,-72.21714938,41.7131866,http://www.willibrew.com,Yes,Yes,No,No,No,No
+Willow Rock Brewing Company,New York,Syracuse,115 Game Rd,-76.13147154,43.01155518,http://www.willowrockbrew.com,Yes,Yes,No,Yes,No,No
+Winter Hill Brewing Company,Massachusetts,Somerville,328 Broadway,-71.0939775805177,42.39265595,http://www.winterhillbrewing.com,Yes,Yes,No,No,No,No
+Witchdoctor Brewing Company,Connecticut,Southington,168 Center St,-72.88142555,41.60169813,http://www.witchdoctorbrewing.com,Yes,Yes,Yes,Yes,Yes,No
+Wolf Hollow Brewing Company,New York,Schenectady,6882 Amsterdam Rd,-74.0809254,42.8969263,http://www.wolfhollowbrewing.com,Yes,Yes,Unknown,Unknown,Unknown,Unknown
+Wood Boat Brewery,New York,Clayton,625 Mary St Ste A,-76.0876309325,44.2383025,http://www.woodboatbrewery.com,Yes,Yes,No,No,No,No
+Wood Kettle Brewing,New York,Hilton,1192 Manitou Rd,-77.7502626,43.254407,,Yes,Yes,No,No,No,No
+Woodbury Brewing Company,Connecticut,Woodbury,738 Main St,-73.2070509,41.5385323,http://www.woodburybrewingcompany.com,Yes,Yes,Yes,Yes,Yes,No
+Woodcock Brothers Brewing,New York,Wilson,638 Lake St,-78.825882,43.299013,http://www.woodcockbrothersbrewery.com,Yes,Yes,No,No,No,No
+Woodland Farm Brewery,New York,Utica,6002 Trenton Rd,-75.212678,43.148929,http://www.woodlandbeer.com,Yes,Yes,No,No,Yes,No
+Woodland Farms Brewery,Maine,Kittery,"306 Route 1, Suite C",-70.7343467,43.1113172,http://www.wfbrewery.com,Yes,Yes,No,No,No,No
+Woodman's Brewery,New Hampshire,Bristol,195 Peaked Hill Rd,-71.70955815,43.60711645,http://www.facebook.com/woodmansbrewery,Yes,No,No,No,No,No
+Woodstock Brewing,New York,Phoenicia,5581 NY-28,-74.3073792,42.0628328,http://www.drinkwoodstock.com,Yes,Yes,Yes,Yes,Yes,No
+Woodstock Inn Brewery,New Hampshire,North Woodstock,135 Main St,-71.6865275,44.0316675,http://www.woodstockinnnh.com,Yes,Yes,No,No,No,No
+Wormtown Brewery,Massachusetts,Worcester,72 Shrewsbury St,-71.7912262,42.2634992,http://www.wormtownbrewery.com,Yes,Yes,No,No,Yes,No
+WT Brews LLC,New York,Baldwinsville,3 W Genesee St,-76.33288571,43.15855314,http://www.wtbrews.com,Yes,Yes,No,No,No,No
+Yonkers Brewing Co,New York,Yonkers,92 Main St,-73.9029331,40.9345744,http://www.yonkersbrewing.com,Yes,Yes,No,No,Yes,Yes
+Young Lion Brewing Co,New York,Canandaigua,24 Lakeshore Dr,-77.26938995,42.87560967,http://www.younglionbrewing.com,Yes,Yes,No,Yes,No,No
+Zero Gravity Craft Brewery,Vermont,Burlington,716 Pine St,-73.2140363,44.4595462,http://www.zerogravitybeer.com,Yes,Yes,Yes,No,No,No
