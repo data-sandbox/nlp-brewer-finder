@@ -201,8 +201,8 @@ and tallied to determine if dogs are allowed. Also notice how the model correctl
   "hot dogs" by identifying it as a food rather than a dog-friendly indicator.
 
 You can see how this works in my
-[Jupyter Notebooks](https://github.com/data-science-sandbox/nlp-brewer-finder/tree/main/notebooks)
-or [see all the code](https://github.com/data-science-sandbox/nlp-brewer-finder).
+[Jupyter Notebooks](https://github.com/data-sandbox/nlp-brewer-finder/tree/main/notebooks)
+or [see all the code](https://github.com/data-sandbox/nlp-brewer-finder).
 
 Many thanks to [Open Brewery DB](https://www.openbrewerydb.org/) for compiling the brewery list.
 """)
