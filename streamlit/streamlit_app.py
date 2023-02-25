@@ -180,7 +180,7 @@ The SpaCy NLP model uses a pattern-matching, rule-based approach to identify
 
 Here's an example of the model identifying offerings from review text:
 """)
-image = Image.open('./streamlit/example.png')
+image = Image.open(Path('./streamlit/example.png'))
 st.image(image, caption="Offerings identified by the model and visualized using SpaCy's displacy feature")
 
 st.markdown("""
