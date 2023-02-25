@@ -3,20 +3,10 @@ import pandas as pd
 import requests
 from streamlit_folium import folium_static
 import folium
-import base64
-import textwrap
 from PIL import Image
 
 
 st.set_page_config(layout='wide', page_title='Brewery Finder 🍻')
-
-# TODO try svg image instead of png
-# def render_svg(svg):
-#     """Renders the given svg string."""
-#     b64 = base64.b64encode(svg.encode('utf-8')).decode("utf-8")
-#     html = r'<img src="data:image/svg+xml;base64,%s"/>' % b64
-#     st.write(html, unsafe_allow_html=True)
-
 
 # Initialization
 if 'lat' not in st.session_state:
@@ -100,36 +90,40 @@ tour = st.sidebar.checkbox("Tours Offered")
 if find_button:
     st.session_state.lat, st.session_state.lon = geocode(address_input)
     st.session_state.zoom = 11
+    # 'You are here' pin
+    icon = folium.Icon(color='green', icon='solid fa-house', prefix='fa')
+    current_loc = folium.Marker(location=[st.session_state.lat,
+                                          st.session_state.lon],
+                                icon=icon,
+                                tooltip="You are here.")
+else:
+    current_loc = None
 
 df = load_df()
 filt_df, inv_df = apply_filters(df)
 
 m = folium.Map(location=[st.session_state.lat,
-               st.session_state.lon],
+                         st.session_state.lon],
                tiles="cartodbpositron",
                zoom_start=st.session_state.zoom,
                )
-
-# TODO possible 'you are here' pin
-# if find_button:
-# Current location:
-#     icon = folium.Icon(color='red')
-#     current_loc = folium.Marker(location=[st.session_state.lat1,
-#                                           st.session_state.lon1],
-#                                 icon=icon,
-#                                 tooltip="You are here.")
-# else:
-#     current_loc = None
-# if current_loc:
-#     current_loc.add_to(m)
+if current_loc:
+    current_loc.add_to(m)
 
 
 def get_html(row):
     # Generate html string for popup
+    if row.loc['review'] >= 30:
+        count = '30+'
+    else:
+        count = row.loc['review']
     html = f'''
         <a href={row.loc['website_url']} target="_blank"><b style="font-size:12px; ">{row.loc['name']}</b></a>
         <br>
         {row.loc['street']}, {row.loc['city']}
+        <br>
+        <br>
+        <b>{row.loc['rating']}</b> / 5.0 stars ({count} reviews)
         <br>
         <br>
         Outdoor seating: <b>{row.loc['outdoor_']}</b>
@@ -187,13 +181,6 @@ Here's an example of the model identifying offerings from review text:
 """)
 image = Image.open('./streamlit/example.png')
 st.image(image, caption="Offerings identified by the model and visualized using SpaCy's displacy feature")
-
-# f = open("./streamlit/example.svg", "r")
-# lines = f.readlines()
-# line_string = ''.join(lines)
-# st.code(textwrap.dedent(line_string), 'svg')
-# render_svg('svg')
-# st.image(line_string, caption='Example label matches from model')
 
 st.markdown("""
 For instance, words/phrase variations such as "dogs" and "dog friendly" are matched 
