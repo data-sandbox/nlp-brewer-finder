@@ -1,12 +1,13 @@
 import streamlit as st
 import pandas as pd
+from pathlib import Path
 import requests
 from streamlit_folium import folium_static
 import folium
 from PIL import Image
 
 
-st.set_page_config(layout='wide', page_title='Brewery Finder 🍻')
+st.set_page_config(layout='wide', page_title='brewyou 🍻')
 
 # Initialization
 if 'lat' not in st.session_state:
@@ -19,8 +20,8 @@ if 'zoom' not in st.session_state:
     st.session_state.zoom = 6
 
 # Title
-st.markdown('# Brewery Finder 🍻')
-st.write('Find the best brewery for you!')
+st.title('BREWYOU 🍻')
+st.markdown('### Find the best brewery for you!')
 
 # DEBUG
 # st.write(st.session_state.lat1)
@@ -42,7 +43,7 @@ def geocode(address):
 
 @st.cache()
 def load_df():
-    df = pd.read_csv('./streamlit/breweries_app.csv')
+    df = pd.read_csv(Path('./streamlit/breweries_app.csv'))
     return df
 
 
@@ -75,7 +76,7 @@ def display_df(query_df):
 
 # Sidebar address search
 st.sidebar.subheader("""Find Nearby Breweries""")
-address_input = st.sidebar.text_input("Enter address:", "Boston, MA")
+address_input = st.sidebar.text_input("Enter Address:", "Boston, MA")
 find_button = st.sidebar.button("FIND")
 
 # Sidebar filters
