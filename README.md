@@ -2,7 +2,7 @@
 
 # 🪐 spaCy Project: Brewery Finder NER
 
-Capstone Project for The Data Incubator (TDI) Fellowship. This project identifies brewery offerings from webscraped Tripadvisor user reviews and displays the results in an interactive [Brewery Finder](https://brewery-finder.streamlit.app) app, designed to help users find the best brewery for them by streamlining the decision process in one central interface.
+Capstone Project for The Data Incubator (TDI) Fellowship. This project identifies brewery offerings from webscraped Tripadvisor user reviews and displays the results in the interactive [BREWYOU](https://brewyou.streamlit.app/) app, designed to help users find the best brewery for them by streamlining the decision process in one central interface.
 
 The goal of this project is to demonstrate various data science skills including webscraping, data cleaning, data processing, exploratory analysis, NLP model development, and app deployment. On the NLP side, two models are compared; a simple rule-based model and a spaCy Named Entity Recognition (NER) model.
 
